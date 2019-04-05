@@ -5,52 +5,19 @@
         <li>
             <img src="imgs/slider/slider1.jpg" alt="" uk-cover>
             <div class="uk-position-center uk-position-small uk-light" style="width: 100%;">
-                <div class="uk-container uk-container-large">
-                    <div class="uk-grid-stack" uk-grid>
-                        <div class="uk-width-1-2@m">
-                            <h1 class="title_slide_h" uk-scrollspy="cls: uk-animation-slide-left; target: > span; delay: 500; repeat: true">
-                                <span>Năng lượng xanh</span> <br>
-                                <span>cho phát triển</span> <br>
-                                <span>kinh tế bền vững</span>
-                            </h1>
-                            <a href="#" class="uk-button uk-button-secondary btn_slide_h">Xem thêm</a>
-                        </div>
-                    </div>
-                </div>
+                <?php include('content_slider.php'); ?>
             </div>
         </li>
         <li>
             <img src="imgs/slider/slider2.jpg" alt="" uk-cover>
             <div class="uk-position-center uk-position-small uk-blue" style="width: 100%;">
-                <div class="uk-container uk-container-large">
-                    <div class="uk-grid-stack" uk-grid>
-                        <div class="uk-width-1-2@m">
-                            <h1 class="title_slide_h" uk-scrollspy="cls: uk-animation-slide-left; target: > span; delay: 500; repeat: true">
-                                <span>Năng lượng xanh</span> <br>
-                                <span>cho phát triển</span> <br>
-                                <span>kinh tế bền vững</span>
-                            </h1>
-                            <a href="#" class="uk-button uk-button-secondary btn_slide_h">Xem thêm</a>
-                        </div>
-                    </div>
-                </div>
+                <?php include('content_slider.php'); ?>
             </div>
         </li>
         <li>
             <img src="imgs/slider/slider3.jpg" alt="" uk-cover>
             <div class="uk-position-center uk-position-small uk-light" style="width: 100%;">
-                <div class="uk-container uk-container-large">
-                    <div class="uk-grid-stack" uk-grid>
-                        <div class="uk-width-1-2@m">
-                            <h1 class="title_slide_h" uk-scrollspy="cls: uk-animation-slide-left; target: > span; delay: 500; repeat: true">
-                                <span>Năng lượng xanh</span> <br>
-                                <span>cho phát triển</span> <br>
-                                <span>kinh tế bền vững</span>
-                            </h1>
-                            <a href="#" class="uk-button uk-button-secondary btn_slide_h">Xem thêm</a>
-                        </div>
-                    </div>
-                </div>
+                <?php include('content_slider.php'); ?>
             </div>
         </li>
     </ul>
