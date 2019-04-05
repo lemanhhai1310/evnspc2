@@ -29,7 +29,7 @@
                     <li><a href="#"><span uk-icon="instagram"></span></a></li>
                     <li><a href="#"><span uk-icon="youtube"></span></a></li>
                 </ul>
-                <div class="uk-margin-small author">Design by boconganh.net.vn</div>
+                <div class="uk-margin-small author">Design by <a target="_blank" href="https://boconganh.net.vn/">boconganh.net.vn</a></div>
             </div>
         </div>
     </div>
