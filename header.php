@@ -41,7 +41,7 @@
      theme_color="#24892d">
 </div>
 <section id="root" class="uk-height-viewport uk-offcanvas-content">
-<header id="header" uk-sticky>
+<header id="header" class="uk-position-top uk-position-z-index" uk-sticky>
     <div class="uk-container uk-container-large">
         <nav class="uk-navbar-container uk-navbar-transparent" uk-navbar>
 

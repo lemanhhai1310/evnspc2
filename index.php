@@ -1,7 +1,7 @@
 <?php include('header.php'); ?>
 <div id="slider_home" class="uk-position-relative uk-visible-toggle" tabindex="-1" uk-slideshow="animation: push; min-height: 450">
 
-    <ul class="uk-slideshow-items">
+    <ul class="uk-slideshow-items" uk-height-viewport="min-height: 300">
         <li>
             <img src="imgs/slider/slider1.jpg" alt="" uk-cover>
             <div class="uk-position-center uk-position-small uk-light" style="width: 100%;">
@@ -29,6 +29,22 @@
 
     <ul class="uk-slideshow-nav uk-dotnav uk-flex-center uk-margin uk-position-bottom-center uk-position-z-index"></ul>
 
+    <div id="menu_link_slide" class="uk-position-bottom">
+        <div class="uk-container uk-container-large">
+            <nav class="uk-navbar-container uk-navbar-transparent" uk-navbar>
+                <div class="uk-navbar-left">
+
+                    <ul class="uk-navbar-nav">
+                        <li class="uk-active"><a href="#">thông tin dự án</a></li>
+                        <li><a href="#">quan hệ quốc tế</a></li>
+                        <li><a href="#">dịch vụ trực tuyến</a></li>
+                    </ul>
+
+                </div>
+            </nav>
+        </div>
+    </div>
+    <a class="icon-scroll uk-position-bottom-center"></a>
 </div>
 <div class="uk-section-small">
     <div class="uk-container uk-container-large uk-margin-medium">
@@ -78,8 +94,8 @@
                 </div>
 
                 <div class="uk-visible@s">
-                    <a class="uk-position-center-left-out uk-position-small" href="#" uk-slidenav-previous uk-slider-item="previous"></a>
-                    <a class="uk-position-center-right-out uk-position-small" href="#" uk-slidenav-next uk-slider-item="next"></a>
+                    <a class="uk-position-center-left uk-position-small uk-margin-remove-left uk-margin-remove-right uk-padding-remove-left uk-padding-remove-right" href="#" uk-slidenav-previous uk-slider-item="previous"></a>
+                    <a class="uk-position-center-right uk-position-small uk-margin-remove-left uk-margin-remove-right uk-padding-remove-left uk-padding-remove-right" href="#" uk-slidenav-next uk-slider-item="next"></a>
                 </div>
 
             </div>
