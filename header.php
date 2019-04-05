@@ -41,6 +41,39 @@
      theme_color="#24892d">
 </div>
 <section id="root" class="uk-height-viewport uk-offcanvas-content">
-<header id="header">
+<header id="header" uk-sticky>
+    <div class="uk-container uk-container-large">
+        <nav class="uk-navbar-container uk-navbar-transparent" uk-navbar>
 
+            <div class="uk-navbar-left">
+
+                <a class="uk-navbar-item uk-logo logo_f" href="#"><img src="imgs/logo.svg" alt=""></a>
+
+            </div>
+
+            <div class="uk-navbar-right">
+
+                <ul class="uk-navbar-nav">
+                    <li><a href="#">về chúng tôi</a></li>
+                    <li><a href="#">lĩnh vực hoạt động</a></li>
+                    <li>
+                        <a href="#">đầu tư & dự án</a>
+                        <div class="uk-navbar-dropdown">
+                            <ul class="uk-nav uk-navbar-dropdown-nav">
+                                <li class="uk-active"><a href="#">Active</a></li>
+                                <li><a href="#">Item</a></li>
+                                <li><a href="#">Item</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li><a href="#">an toàn & tiết kiệm điện</a></li>
+                    <li><a href="#">dịch vụ</a></li>
+                    <li><a href="#">tin tức & truyền thông</a></li>
+                    <li><a href="#">liên hệ</a></li>
+                </ul>
+
+            </div>
+
+        </nav>
+    </div>
 </header>

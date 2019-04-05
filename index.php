@@ -31,7 +31,7 @@
 
 </div>
 <div class="uk-section-small">
-    <div class="uk-container uk-container-large">
+    <div class="uk-container uk-container-large uk-margin-medium">
         <h3 class="title_partner uk-text-uppercase uk-text-center">OUR partners</h3>
         <div id="slider_brand" uk-slider="autoplay: true; autoplay-interval: 3000;">
 
@@ -84,6 +84,30 @@
 
             </div>
 
+        </div>
+    </div>
+    <div class="uk-container uk-container-large">
+        <div class="uk-flex-middle" uk-grid>
+            <div class="uk-width-auto@l">
+                <figure class="logo_f uk-invisible uk-visible@l">
+                    <a href="#"><img src="imgs/logo.svg" alt=""></a>
+                </figure>
+            </div>
+            <div class="uk-width-expand@l">
+                <form class="uk-grid-small uk-grid-collapse box_register uk-grid" uk-grid="">
+                    <div class="uk-width-expand uk-first-column">
+                        <input class="uk-input" type="email" placeholder="Đăng kí email ở đây">
+                    </div>
+                    <div class="uk-width-auto">
+                        <button type="submit" class="uk-button uk-button-primary">Gửi</button>
+                    </div>
+                </form>
+            </div>
+            <div class="uk-width-auto@l">
+                <figure class="logo_f uk-invisible uk-visible@l">
+                    <a href="#"><img src="imgs/logo.svg" alt=""></a>
+                </figure>
+            </div>
         </div>
     </div>
 </div>
