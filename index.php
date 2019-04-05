@@ -29,7 +29,7 @@
 
     <ul class="uk-slideshow-nav uk-dotnav uk-flex-center uk-margin uk-position-bottom-center uk-position-z-index"></ul>
 
-    <div id="menu_link_slide" class="uk-position-bottom">
+    <div id="menu_link_slide" class="uk-position-bottom uk-visible@m">
         <div class="uk-container uk-container-large">
             <nav class="uk-navbar-container uk-navbar-transparent" uk-navbar>
                 <div class="uk-navbar-left">
@@ -44,7 +44,7 @@
             </nav>
         </div>
     </div>
-    <a class="icon-scroll uk-position-bottom-center"></a>
+    <a href="#footer" class="icon-scroll uk-position-bottom-center" uk-scroll></a>
 </div>
 <div class="uk-section-small">
     <div class="uk-container uk-container-large uk-margin-medium">

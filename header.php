@@ -13,6 +13,7 @@
     <script src="assets/jquery/jquery-3.3.1.js"></script>
     <script src="assets/uikit-3.0.3/js/uikit.min.js"></script>
     <script src="assets/uikit-3.0.3/js/uikit-icons.min.js"></script>
+    <script src="js/main.js"></script>
 </head>
 <body>
 <!-- Load Facebook SDK for JavaScript -->
@@ -41,19 +42,19 @@
      theme_color="#24892d">
 </div>
 <section id="root" class="uk-height-viewport uk-offcanvas-content">
-<header id="header" class="uk-position-top uk-position-z-index" uk-sticky>
+<header id="header" class="uk-position-top uk-position-z-index uk-width-1-1" uk-sticky>
     <div class="uk-container uk-container-large">
         <nav class="uk-navbar-container uk-navbar-transparent" uk-navbar>
 
             <div class="uk-navbar-left">
 
-                <a class="uk-navbar-item uk-logo logo_f" href="#"><img src="imgs/logo.svg" alt=""></a>
+                <a class="uk-navbar-item uk-logo logo_f uk-padding-remove-left" href="."><img src="imgs/logo.svg" alt=""></a>
 
             </div>
 
             <div class="uk-navbar-right">
 
-                <ul class="uk-navbar-nav">
+                <ul class="uk-navbar-nav uk-visible@m">
                     <li><a href="#">về chúng tôi</a></li>
                     <li><a href="#">lĩnh vực hoạt động</a></li>
                     <li>
@@ -71,9 +72,23 @@
                     <li><a href="#">tin tức & truyền thông</a></li>
                     <li><a href="#">liên hệ</a></li>
                 </ul>
+                <ul class="uk-navbar-nav uk-hidden@m">
+                    <li>
+                        <a href="#" class="uk-padding-remove-right">
+                            <div id="mobile_menu_toggler">
+                                <div id="m_nav_menu" class="m_nav">
+                                    <div class="m_nav_ham button_closed" id="m_ham_1"></div>
+                                    <div class="m_nav_ham button_closed" id="m_ham_2"></div>
+                                    <div class="m_nav_ham button_closed" id="m_ham_3"></div>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                </ul>
 
             </div>
 
         </nav>
     </div>
+    <?php include('mobile_menu.php'); ?>
 </header>
