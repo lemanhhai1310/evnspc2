@@ -10,6 +10,17 @@
     position: fixed !important;
   }
   .uk-navbar-nav{
+    &.uk-visible\@m{
+      >li{
+        >a{
+          &:hover{
+            &:before{
+              right: 15px;
+            }
+          }
+        }
+      }
+    }
     >li{
       >a{
         color: #333333;
@@ -17,11 +28,6 @@
         font-family:'SanFranciscoText-Regular';
         position: relative;
         @extend .uk-navbar-item;
-        &:hover{
-          &:before{
-            right: 15px;
-          }
-        }
         &:before{
           content: '';
           display: block;

@@ -34,6 +34,7 @@
         </div>
     </div>
 </footer>
+<?php include('backtop.php'); ?>
 </section>
 </body>
 </html>
