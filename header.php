@@ -61,9 +61,11 @@
                         <a href="#">đầu tư & dự án</a>
                         <div class="uk-navbar-dropdown">
                             <ul class="uk-nav uk-navbar-dropdown-nav">
-                                <li class="uk-active"><a href="#">Active</a></li>
-                                <li><a href="#">Item</a></li>
-                                <li><a href="#">Item</a></li>
+                                <li class="uk-active"><a href="#">Thông tin dự án</a></li>
+                                <li><a href="#">Kêu gọi đầu tư</a></li>
+                                <li><a href="#">Quan hệ quốc tế</a></li>
+                                <li><a href="#">Tin đầu tư dự án</a></li>
+                                <li><a href="#">Đấu thầu</a></li>
                             </ul>
                         </div>
                     </li>
