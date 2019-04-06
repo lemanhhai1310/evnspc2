@@ -56,34 +56,34 @@
                 <div class="uk-slider-container uk-light">
                     <ul class="uk-slider-items uk-text-center uk-flex-middle uk-child-width-1-2 uk-child-width-1-3@m uk-child-width-1-5@l" uk-grid>
                         <li>
-                            <img src="imgs/brand/CFE.png" alt="">
+                            <a href=""><img src="imgs/brand/CFE.png" alt=""></a>
                         </li>
                         <li>
-                            <img src="imgs/brand/Kepco.png" alt="">
+                            <a href=""><img src="imgs/brand/Kepco.png" alt=""></a>
                         </li>
                         <li>
-                            <img src="imgs/brand/aes%20dot%20com.png" alt="">
+                            <a href=""><img src="imgs/brand/aes%20dot%20com.png" alt=""></a>
                         </li>
                         <li>
-                            <img src="imgs/brand/nepal.png" alt="">
+                            <a href=""><img src="imgs/brand/nepal.png" alt=""></a>
                         </li>
                         <li>
-                            <img src="imgs/brand/tenaga.png" alt="">
+                            <a href=""><img src="imgs/brand/tenaga.png" alt=""></a>
                         </li>
                         <li>
-                            <img src="imgs/brand/CFE.png" alt="">
+                            <a href=""><img src="imgs/brand/CFE.png" alt=""></a>
                         </li>
                         <li>
-                            <img src="imgs/brand/Kepco.png" alt="">
+                            <a href=""><img src="imgs/brand/Kepco.png" alt=""></a>
                         </li>
                         <li>
-                            <img src="imgs/brand/aes%20dot%20com.png" alt="">
+                            <a href=""><img src="imgs/brand/aes%20dot%20com.png" alt=""></a>
                         </li>
                         <li>
-                            <img src="imgs/brand/nepal.png" alt="">
+                            <a href=""><img src="imgs/brand/nepal.png" alt=""></a>
                         </li>
                         <li>
-                            <img src="imgs/brand/tenaga.png" alt="">
+                            <a href=""><img src="imgs/brand/tenaga.png" alt=""></a>
                         </li>
                     </ul>
                 </div>
