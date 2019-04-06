@@ -6,7 +6,7 @@
                 <div>cho phát triển</div>
                 <div>kinh tế bền vững</div>
             </h1>
-            <a href="#" class="uk-button uk-button-secondary btn_slide_h">Xem thêm</a>
+            <a href="#" class="uk-button uk-button-secondary btn_slide_h" uk-scrollspy="cls: uk-animation-slide-bottom; delay: 500; repeat: true;">Xem thêm</a>
         </div>
     </div>
 </div>

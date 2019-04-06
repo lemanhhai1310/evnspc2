@@ -1,5 +1,5 @@
 #header{
-  background-color: rgba(255, 255, 255, 0.85);
+  background-color: rgba(255, 255, 255, 0.9);
   width: 100% !important;
   & + .uk-sticky-placeholder{
     display: none;
@@ -9,11 +9,68 @@
     z-index: 1000;
     position: fixed !important;
   }
+  .uk-navbar-dropdown{
+    background-color: rgba(255, 255, 255, 0.9);
+  }
+  .uk-dropdown{
+    min-width: 250px;
+  }
+  .uk-navbar-dropdown-nav{
+    >li{
+      position: relative;
+      &:nth-child(n+2){
+        >a{
+          &:after{
+            content: '';
+            display: block;
+            width: calc(100% - 30px);
+            height: 1px;
+            background-color: #d2d2d2;
+            opacity: .5;
+            right: 15px;
+            left: 15px;
+            position: absolute;
+            top: 0;
+          }
+        }
+      }
+      &:hover{
+        >a{
+          color: #17479b;
+          opacity: 1;
+        }
+      }
+      >a{
+        padding: 10px 15px;
+        color: #333333;
+        opacity: .5;
+        position: relative;
+        font-family:'SanFranciscoText-Regular';
+        font-size: 14.5px;
+        &[aria-expanded]{
+          &:before{
+            content: "\f105";
+            font-family: FontAwesome;
+            position: absolute;
+            right: 15px;
+            top: calc((100% - 17px)/2);
+          }
+        }
+      }
+    }
+  }
   .uk-navbar-nav{
     &.uk-visible\@m{
       >li{
+        &:hover{
+          >a{
+            &:before{
+              right: 15px;
+            }
+          }
+        }
         >a{
-          &:hover{
+          &.uk-open{
             &:before{
               right: 15px;
             }
@@ -44,6 +101,6 @@
     }
   }
   .uk-navbar-item{
-    min-height: 70px;
+    min-height: 75px;
   }
 }
