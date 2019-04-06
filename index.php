@@ -1,22 +1,22 @@
 <?php include('header.php'); ?>
-<div id="slider_home" class="uk-position-relative uk-visible-toggle" tabindex="-1" uk-slideshow="animation: push; min-height: 450">
+<div id="slider_home" class="uk-position-relative uk-visible-toggle" tabindex="-1" uk-slideshow="animation: push; min-height: 450; autoplay: true; pause-on-hover: false;">
 
     <ul class="uk-slideshow-items" uk-height-viewport="min-height: 300">
         <li>
             <img src="imgs/slider/slider1.jpg" alt="" uk-cover>
-            <div class="uk-position-center uk-position-small uk-light" style="width: 100%;">
+            <div class="uk-position-center uk-light" style="width: 100%;">
                 <?php include('content_slider.php'); ?>
             </div>
         </li>
         <li>
             <img src="imgs/slider/slider2.jpg" alt="" uk-cover>
-            <div class="uk-position-center uk-position-small uk-blue" style="width: 100%;">
+            <div class="uk-position-center uk-blue" style="width: 100%;">
                 <?php include('content_slider.php'); ?>
             </div>
         </li>
         <li>
             <img src="imgs/slider/slider3.jpg" alt="" uk-cover>
-            <div class="uk-position-center uk-position-small uk-light" style="width: 100%;">
+            <div class="uk-position-center uk-light" style="width: 100%;">
                 <?php include('content_slider.php'); ?>
             </div>
         </li>
