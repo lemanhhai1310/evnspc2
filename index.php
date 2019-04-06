@@ -3,19 +3,25 @@
 
     <ul class="uk-slideshow-items" uk-height-viewport="min-height: 300">
         <li>
-            <img src="imgs/slider/slider1.jpg" alt="" uk-cover>
+            <div class="uk-position-cover uk-animation-kenburns uk-animation-reverse uk-transform-origin-center-left">
+                <img src="imgs/slider/slider1.jpg" alt="" uk-cover>
+            </div>
             <div class="uk-position-center uk-light" style="width: 100%;">
                 <?php include('content_slider.php'); ?>
             </div>
         </li>
         <li>
-            <img src="imgs/slider/slider2.jpg" alt="" uk-cover>
+            <div class="uk-position-cover uk-animation-kenburns uk-animation-reverse uk-transform-origin-center-left">
+                <img src="imgs/slider/slider2.jpg" alt="" uk-cover>
+            </div>
             <div class="uk-position-center uk-blue" style="width: 100%;">
                 <?php include('content_slider.php'); ?>
             </div>
         </li>
         <li>
-            <img src="imgs/slider/slider3.jpg" alt="" uk-cover>
+            <div class="uk-position-cover uk-animation-kenburns uk-animation-reverse uk-transform-origin-center-left">
+                <img src="imgs/slider/slider3.jpg" alt="" uk-cover>
+            </div>
             <div class="uk-position-center uk-light" style="width: 100%;">
                 <?php include('content_slider.php'); ?>
             </div>
