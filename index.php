@@ -1,5 +1,5 @@
 <?php include('header.php'); ?>
-<div id="slider_home" class="uk-position-relative uk-visible-toggle" tabindex="-1" uk-slideshow="animation: scale; min-height: 450; autoplay: false; pause-on-hover: true;">
+<div id="slider_home" class="uk-position-relative uk-visible-toggle" tabindex="-1" uk-slideshow="animation: scale; min-height: 450; autoplay: true; pause-on-hover: true;">
 
     <ul class="uk-slideshow-items" uk-height-viewport="min-height: 300">
         <li>
