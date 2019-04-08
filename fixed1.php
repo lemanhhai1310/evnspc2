@@ -12,6 +12,13 @@
         </div>
     </div>
 </div>
+<div class="uk-position-fixed fixed2 uk-visible@m">
+    <div class="uk-margin">
+        <div>
+            <img src="imgs/chat-white.svg" alt="">
+        </div>
+    </div>
+</div>
 <script>
     function myChange(e) {
         var tmp;

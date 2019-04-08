@@ -20,7 +20,23 @@
         </li>
         <li>
             <div class="uk-position-cover uk-animation-kenburns uk-animation-reverse uk-transform-origin-center-left">
+                <img src="imgs/slider/slider4.jpg" alt="" uk-cover>
+            </div>
+            <div class="uk-position-center uk-light" style="width: 100%;">
+                <?php include('content_slider.php'); ?>
+            </div>
+        </li>
+        <li>
+            <div class="uk-position-cover uk-animation-kenburns uk-animation-reverse uk-transform-origin-center-left">
                 <img src="imgs/slider/slider3.jpg" alt="" uk-cover>
+            </div>
+            <div class="uk-position-center uk-light" style="width: 100%;">
+                <?php include('content_slider.php'); ?>
+            </div>
+        </li>
+        <li>
+            <div class="uk-position-cover uk-animation-kenburns uk-animation-reverse uk-transform-origin-center-left">
+                <img src="imgs/slider/slider5.jpg" alt="" uk-cover>
             </div>
             <div class="uk-position-center uk-light" style="width: 100%;">
                 <?php include('content_slider.php'); ?>
