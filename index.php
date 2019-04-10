@@ -1,7 +1,7 @@
 <?php include('header.php'); ?>
 <div id="slider_home" class="uk-position-relative uk-visible-toggle" tabindex="-1" uk-slideshow="animation: scale; min-height: 450; autoplay: true; pause-on-hover: true;">
 
-    <ul class="uk-slideshow-items" uk-height-viewport="min-height: 300">
+    <ul class="uk-slideshow-items" uk-height-viewport="offset-top: true">
         <li>
             <div class="uk-position-cover uk-animation-kenburns uk-animation-reverse uk-transform-origin-center-left">
                 <img src="imgs/slider/slider1.jpg" alt="" uk-cover>
