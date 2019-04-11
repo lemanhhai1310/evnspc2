@@ -7,7 +7,7 @@
                 </figure>
             </div>
             <div class="uk-width-expand@l">
-                <h3 class="title_f uk-text-uppercase">TỔNG CÔNG TY ĐIỆN LỰC MIỀN NAM</h3>
+                <h3 class="title_f uk-text-uppercase uk-margin-small">TỔNG CÔNG TY ĐIỆN LỰC MIỀN NAM</h3>
                 <div class="info_cty uk-margin-small-bottom">
                     Cơ quan chủ quản: Tập đoàn Điện lực Việt Nam <br>
                     Giấy phép số: 49/GP-TTĐT do Sở Thông tin và Truyền thông TP.HCM, cấp ngày 22/5/2015 <br>
@@ -17,7 +17,14 @@
                 <div class="uk-margin-small author">© EVNSPC 2018. All right reserved</div>
             </div>
             <div class="uk-width-auto@l hotline">
-                <h3 class="title_f">Hỗ trợ trực tuyến 24/7: <span>19001006 - 19009000</span></h3>
+                <div class="uk-grid-small uk-margin-small" uk-grid>
+                    <div class="uk-width-auto">
+
+                    </div>
+                    <div class="uk-width-expand">
+                        <h4 class="title_fix uk-text-uppercase">Hỗ trợ trực tuyến 24/7: <span>19001006 - 19009000</span></h4>
+                    </div>
+                </div>
                 <div class="info_cty uk-margin-small-bottom">
                     Địa chỉ: 72 Hai Bà Trưng, P.Bến Nghé, Q. 1, Tp. Hồ Chí Minh <br>
                     Điện thoại: (84 028) 3822 1605 - Fax: (84 028) 3822 1751 - 3939 0138 <br>

@@ -8,10 +8,10 @@
 }
 .title_f{
   color: #17479b;
-  font-size: 16px;
-  font-weight: 500;
-  font-family:'SanFranciscoText-Regular';
-  margin-bottom: 3px;
+  font-size: 18px;
+  line-height: 24px;
+  font-family:'SanFranciscoDisplay-Bold';
+  font-weight: bold;
   .hotline &{
     color: #333333;
     span{
@@ -29,5 +29,15 @@
     .hotline &{
       color: #333333;
     }
+  }
+}
+.title_fix{
+  color: #17479b;
+  font-size: 18px;
+  line-height: 24px;
+  font-family:'SanFranciscoDisplay-Bold';
+  font-weight: bold;
+  span{
+    color: #f20022;
   }
 }
