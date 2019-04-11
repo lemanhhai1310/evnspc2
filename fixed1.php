@@ -1,9 +1,9 @@
 <div class=" uk-position-fixed fixed1">
-    <div class="uk-margin-small">
+    <div class="uk-margin-small uk-text-center">
         <a uk-search-icon uk-toggle="target: .nav-overlay; animation: uk-animation-fade" href="" class="uk-icon-button"></a>
     </div>
-    <div class="uk-margin-small">
-        <div class="select_lang uk-text-center">
+    <div class="uk-margin-small uk-text-center">
+        <div class="select_lang uk-text-center uk-margin-auto">
             <div class="uk-flex uk-flex-column">
                 <a href="javascript: void(0);" onclick="myChange(this);" data-lang="vn">VN</a>
                 <a href="javascript: void(0);" onclick="myChange(this);" data-lang="en">EN</a>

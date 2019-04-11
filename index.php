@@ -1,5 +1,5 @@
 <?php include('header.php'); ?>
-<div id="slider_home" class="uk-position-relative uk-visible-toggle" tabindex="-1" uk-slideshow="animation: scale; min-height: 450; autoplay: true; pause-on-hover: true;">
+<div id="slider_home" class="uk-position-relative uk-visible-toggle" tabindex="-1" uk-slideshow="animation: push; min-height: 450; autoplay: true; pause-on-hover: true;">
 
     <ul class="uk-slideshow-items" uk-height-viewport="offset-top: true">
         <li>
@@ -20,23 +20,7 @@
         </li>
         <li>
             <div class="uk-position-cover uk-animation-kenburns uk-animation-reverse uk-transform-origin-center-left">
-                <img src="imgs/slider/slider4.jpg" alt="" uk-cover>
-            </div>
-            <div class="uk-position-center uk-light" style="width: 100%;">
-                <?php include('content_slider.php'); ?>
-            </div>
-        </li>
-        <li>
-            <div class="uk-position-cover uk-animation-kenburns uk-animation-reverse uk-transform-origin-center-left">
                 <img src="imgs/slider/slider3.jpg" alt="" uk-cover>
-            </div>
-            <div class="uk-position-center uk-light" style="width: 100%;">
-                <?php include('content_slider.php'); ?>
-            </div>
-        </li>
-        <li>
-            <div class="uk-position-cover uk-animation-kenburns uk-animation-reverse uk-transform-origin-center-left">
-                <img src="imgs/slider/slider5.jpg" alt="" uk-cover>
             </div>
             <div class="uk-position-center uk-light" style="width: 100%;">
                 <?php include('content_slider.php'); ?>
@@ -66,7 +50,7 @@
             </nav>
         </div>
     </div>
-    <a href="#footer" class="icon-scroll uk-position-bottom-center" uk-scroll></a>
+    <a href="#footer" class="icon-scroll uk-position-bottom-center uk-hidden" uk-scroll></a>
 </div>
 <div class="uk-section-small">
     <div class="uk-container uk-container-large uk-margin-medium">
@@ -78,34 +62,74 @@
                 <div class="uk-slider-container uk-light">
                     <ul class="uk-slider-items uk-text-center uk-flex-middle uk-child-width-1-2 uk-child-width-1-3@m uk-child-width-1-5@l" uk-grid>
                         <li>
-                            <a href=""><img src="imgs/brand/CFE.png" alt=""></a>
+                            <a href="">
+                                <div class="uk-padding">
+                                    <img src="imgs/brand/CFE.png" alt="">
+                                </div>
+                            </a>
                         </li>
                         <li>
-                            <a href=""><img src="imgs/brand/Kepco.png" alt=""></a>
+                            <a href="">
+                                <div class="uk-padding">
+                                    <img src="imgs/brand/Kepco.png" alt="">
+                                </div>
+                            </a>
                         </li>
                         <li>
-                            <a href=""><img src="imgs/brand/aes%20dot%20com.png" alt=""></a>
+                            <a href="">
+                                <div class="uk-padding">
+                                    <img src="imgs/brand/aes%20dot%20com.png" alt="">
+                                </div>
+                            </a>
                         </li>
                         <li>
-                            <a href=""><img src="imgs/brand/nepal.png" alt=""></a>
+                            <a href="">
+                                <div class="uk-padding">
+                                    <img src="imgs/brand/nepal.png" alt="">
+                                </div>
+                            </a>
                         </li>
                         <li>
-                            <a href=""><img src="imgs/brand/tenaga.png" alt=""></a>
+                            <a href="">
+                                <div class="uk-padding">
+                                    <img src="imgs/brand/tenaga.png" alt="">
+                                </div>
+                            </a>
                         </li>
                         <li>
-                            <a href=""><img src="imgs/brand/CFE.png" alt=""></a>
+                            <a href="">
+                                <div class="uk-padding">
+                                    <img src="imgs/brand/CFE.png" alt="">
+                                </div>
+                            </a>
                         </li>
                         <li>
-                            <a href=""><img src="imgs/brand/Kepco.png" alt=""></a>
+                            <a href="">
+                                <div class="uk-padding">
+                                    <img src="imgs/brand/Kepco.png" alt="">
+                                </div>
+                            </a>
                         </li>
                         <li>
-                            <a href=""><img src="imgs/brand/aes%20dot%20com.png" alt=""></a>
+                            <a href="">
+                                <div class="uk-padding">
+                                    <img src="imgs/brand/aes%20dot%20com.png" alt="">
+                                </div>
+                            </a>
                         </li>
                         <li>
-                            <a href=""><img src="imgs/brand/nepal.png" alt=""></a>
+                            <a href="">
+                                <div class="uk-padding">
+                                    <img src="imgs/brand/nepal.png" alt="">
+                                </div>
+                            </a>
                         </li>
                         <li>
-                            <a href=""><img src="imgs/brand/tenaga.png" alt=""></a>
+                            <a href="">
+                                <div class="uk-padding">
+                                    <img src="imgs/brand/tenaga.png" alt="">
+                                </div>
+                            </a>
                         </li>
                     </ul>
                 </div>

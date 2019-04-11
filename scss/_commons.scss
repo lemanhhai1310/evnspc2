@@ -4,5 +4,9 @@ body{
   color: #333333;
 }
 .uk-container-large{
-  max-width: 1400px;
+  max-width: 9999px;
+  @media(min-width: 960px){
+    padding-left: 100px;
+    padding-right: 100px;
+  }
 }

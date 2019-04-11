@@ -1,14 +1,25 @@
 #header{
   .uk-navbar-dropdown{
-    background-color: rgba(255, 255, 255, 0.9);
+    box-shadow: none !important;
+    &:not(.uk-dropdown-bottom-right){
+      left: 15px !important;
+    }
+    &:not(.uk-dropdown-bottom-left){
+      //right: 15px !important;
+      //left: inherit !important;
+    }
   }
   .uk-dropdown{
     min-width: 250px;
     width: auto;
   }
   .uk-navbar-dropdown-nav{
+    background-color: rgba(255, 255, 255, 0.9);
     >li{
       position: relative;
+      >.uk-nav{
+        display: none !important;
+      }
       &:nth-child(n+2){
         >a{
           &:after{
@@ -41,6 +52,7 @@
         font-size: 14.5px;
         &[aria-expanded]{
           &:before{
+            opacity: 0;
             content: "\f105";
             font-family: FontAwesome;
             position: absolute;

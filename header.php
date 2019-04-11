@@ -56,7 +56,7 @@
                 <ul class="uk-navbar-nav uk-visible@m">
                     <li>
                         <a href="#">về chúng tôi</a>
-                        <div class="uk-navbar-dropdown uk-margin-remove uk-padding-remove" uk-dropdown="animation: uk-animation-slide-bottom-small; duration: 300">
+                        <div class="uk-navbar-dropdown uk-margin-remove uk-padding-remove" uk-dropdown="animation: uk-animation-slide-bottom-small; duration: 300;">
                             <ul class="uk-nav uk-navbar-dropdown-nav">
                                 <li><a href="#">Tổng quan</a></li>
                                 <li><a href="#">Chính sách chất lượng</a></li>

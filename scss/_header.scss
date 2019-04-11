@@ -11,6 +11,19 @@
   .uk-navbar-nav{
     &.uk-visible\@m{
       >li{
+        position: relative;
+        &:last-child{
+          &:hover{
+            >a{
+              &:before{
+                right: 0;
+              }
+            }
+          }
+          >a{
+            padding-right: 0;
+          }
+        }
         &:hover{
           >a{
             &:before{
@@ -33,6 +46,10 @@
         font-size: 15px;
         font-family:'SanFranciscoText-Regular';
         position: relative;
+        @media(max-width: 1366px){
+          font-size: 14px;
+          padding: 0 10px;
+        }
         @extend .uk-navbar-item;
         &:before{
           content: '';
