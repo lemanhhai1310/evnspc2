@@ -19,3 +19,41 @@
     opacity: 0
   }
 }
+@keyframes suntory-alo-circle-fill-anim {
+  0% {
+    opacity: .2;
+    transform: rotate(0deg) scale(.7) skew(1deg)
+  }
+  50% {
+    opacity: .2;
+    transform: rotate(0deg) scale(1) skew(1deg)
+  }
+  100% {
+    opacity: .2;
+    transform: rotate(0deg) scale(.7) skew(1deg)
+  }
+}
+
+@keyframes suntory-alo-circle-img-anim {
+  0% {
+    transform: rotate(0deg) scale(1) skew(1deg)
+  }
+  10% {
+    transform: rotate(-25deg) scale(1) skew(1deg)
+  }
+  20% {
+    transform: rotate(25deg) scale(1) skew(1deg)
+  }
+  30% {
+    transform: rotate(-25deg) scale(1) skew(1deg)
+  }
+  40% {
+    transform: rotate(25deg) scale(1) skew(1deg)
+  }
+  50% {
+    transform: rotate(0deg) scale(1) skew(1deg)
+  }
+  100% {
+    transform: rotate(0deg) scale(1) skew(1deg)
+  }
+}

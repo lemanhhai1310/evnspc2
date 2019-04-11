@@ -14,10 +14,15 @@
 </div>
 <div class="uk-position-fixed fixed2 uk-visible@m">
     <div class="uk-margin">
-        <div class="uk-position-relative">
-            <div class="txt_hotro uk-text-uppercase uk-text-center uk-margin-small uk-position-absolute">hỗ trợ trực tuyến</div>
-            <img src="imgs/Chat%20icon.svg" alt="">
-        </div>
+        <a href="tel:0947520793">
+            <div class="uk-position-relative">
+                <div class="txt_hotro uk-text-uppercase uk-text-center uk-margin-small uk-position-absolute">hỗ trợ trực tuyến</div>
+                <div class="boxchat_img uk-position-z-index">
+                    <img src="imgs/Group.svg" alt="">
+                </div>
+                <span class="suntory-alo-ph-circle-fill"></span>
+            </div>
+        </a>
     </div>
 </div>
 <script>
