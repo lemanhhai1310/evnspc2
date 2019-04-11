@@ -17,9 +17,9 @@
                 <div class="uk-margin-small author">© EVNSPC 2018. All right reserved</div>
             </div>
             <div class="uk-width-auto@l hotline">
-                <div class="uk-grid-small uk-margin-small" uk-grid>
+                <div class="uk-grid-small uk-margin-small uk-flex-middle" uk-grid>
                     <div class="uk-width-auto">
-
+                        <img src="imgs/Phone_footer.svg" alt="">
                     </div>
                     <div class="uk-width-expand">
                         <h4 class="title_fix uk-text-uppercase">Hỗ trợ trực tuyến 24/7: <span>19001006 - 19009000</span></h4>

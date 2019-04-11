@@ -63,5 +63,16 @@
 .fixed2{
   z-index: 2;
   right: 15px;
-  bottom: 110px;
+  bottom: 150px;
+}
+.txt_hotro{
+  .fixed2 &{
+    white-space: nowrap;
+    transform: rotate(90deg);
+    font-size: 18px;
+    color: #B8B8B8;
+    top: -160px;
+    left: 0;
+    right: 0;
+  }
 }

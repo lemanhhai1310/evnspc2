@@ -14,8 +14,9 @@
 </div>
 <div class="uk-position-fixed fixed2 uk-visible@m">
     <div class="uk-margin">
-        <div>
-            <img src="imgs/chat-white.svg" alt="">
+        <div class="uk-position-relative">
+            <div class="txt_hotro uk-text-uppercase uk-text-center uk-margin-small uk-position-absolute">hỗ trợ trực tuyến</div>
+            <img src="imgs/Chat%20icon.svg" alt="">
         </div>
     </div>
 </div>
