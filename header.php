@@ -58,7 +58,7 @@
                         <a href="#">về chúng tôi</a>
                         <div class="uk-navbar-dropdown uk-margin-remove uk-padding-remove" uk-dropdown="animation: uk-animation-slide-bottom-small; duration: 300;">
                             <ul class="uk-nav uk-navbar-dropdown-nav">
-                                <li><a href="#">Tổng quan</a></li>
+                                <li><a href="vechungtoi-tongquan.php">Tổng quan</a></li>
                                 <li><a href="#">Chính sách chất lượng</a></li>
                                 <li><a href="#">Quá trình hình thành phát triển</a></li>
                                 <li><a href="#">Ban điều hành</a></li>
