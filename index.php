@@ -144,7 +144,7 @@
     </div>
     <div class="uk-container uk-container-large">
         <div class="uk-flex-middle" uk-grid>
-            <div class="uk-width-auto@l">
+            <div class="uk-width-auto@l uk-visible@m">
                 <figure class="logo_f uk-invisible">
                     <a href="#"><img src="imgs/logo.svg" alt=""></a>
                 </figure>
@@ -159,7 +159,7 @@
                     </div>
                 </form>
             </div>
-            <div class="uk-width-1-6@l">
+            <div class="uk-width-1-6@l uk-visible@m">
                 <figure class="logo_f uk-invisible uk-visible@l">
                     <a href="#"><img src="imgs/logo.svg" alt=""></a>
                 </figure>
