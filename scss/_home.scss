@@ -16,6 +16,16 @@
         font-size: 15px;
         position: relative;
         padding-left: 0;
+        font-size: 0.9375rem;
+        @media(min-width: 1600px){
+          font-size: 1.0625rem;
+        }
+        @media(min-width: 1800px){
+          font-size: 1.125rem;
+        }
+        @media(min-width: 1920px){
+          font-size: 1.125rem;
+        }
         &:hover{
           &:before{
             height: 2px;
@@ -73,18 +83,39 @@
 .title_slide_h{
   font-family:'SanFranciscoDisplay-Medium';
   font-weight: 500;
-  @media(min-width: 960px){
-    font-size: 50px;
+  @media(min-width: 1200px){
+    font-size: 2.8rem;
+  }
+  @media(min-width: 1440px){
+    font-size: 3rem;
+  }
+  @media(min-width: 1600px){
+    font-size: 3.2rem;
+  }
+  @media(min-width: 1800px){
+    font-size: 3.4rem;
+  }
+  @media(min-width: 1920px){
+    font-size: 4.5rem;
   }
   .uk-blue &{
     color: #17479b;
   }
 }
 .btn_slide_h{
-  //text-transform: inherit;
   color: #17479b !important;
   font-weight: 300;
   font-family:'SanFranciscoDisplay-Regular';
+  font-size: 0.9375rem;
+  @media(min-width: 1600px){
+    font-size: 1.0625rem;
+  }
+  @media(min-width: 1800px){
+    font-size: 1.125rem;
+  }
+  @media(min-width: 1920px){
+    font-size: 1.125rem;
+  }
   .uk-blue &{
     background-color: #17479b;
     border-color: #17479b;
@@ -95,16 +126,35 @@
   font-family:'SanFranciscoText-Regular';
   color: #333333;
   font-size: 22px;
+  @media(min-width: 1920px){
+    font-size: 24px;
+  }
 }
 #slider_brand{
   img{
     transform: scale(0.9);
+    @media(min-width: 1600px){
+      transform: scale(1);
+    }
+    @media(min-width: 1900px){
+      transform: scale(1.1);
+    }
   }
 }
 .box_register{
   .uk-input{
     color: #6f6f6f;
     border-color: #333333;
+    font-size: 0.9375rem;
+    @media(min-width: 1600px){
+      font-size: 1.0625rem;
+    }
+    @media(min-width: 1800px){
+      font-size: 1.125rem;
+    }
+    @media(min-width: 1920px){
+      font-size: 1.125rem;
+    }
     &::placeholder{
       color: #6f6f6f;
     }

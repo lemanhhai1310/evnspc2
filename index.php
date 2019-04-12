@@ -3,25 +3,19 @@
 
     <ul class="uk-slideshow-items" uk-height-viewport="offset-top: true">
         <li>
-            <div class="uk-position-cover uk-animation-kenburns uk-animation-reverse uk-transform-origin-center-left">
-                <img src="imgs/slider/slider1.jpg" alt="" uk-cover>
-            </div>
+            <img src="imgs/slider/slider1.jpg" alt="" uk-cover>
             <div class="uk-position-center uk-light" style="width: 100%;">
                 <?php include('content_slider.php'); ?>
             </div>
         </li>
         <li>
-            <div class="uk-position-cover uk-animation-kenburns uk-animation-reverse uk-transform-origin-center-left">
-                <img src="imgs/slider/slider2.jpg" alt="" uk-cover>
-            </div>
+            <img src="imgs/slider/slider2.jpg" alt="" uk-cover>
             <div class="uk-position-center uk-blue" style="width: 100%;">
                 <?php include('content_slider.php'); ?>
             </div>
         </li>
         <li>
-            <div class="uk-position-cover uk-animation-kenburns uk-animation-reverse uk-transform-origin-center-left">
-                <img src="imgs/slider/slider3.jpg" alt="" uk-cover>
-            </div>
+            <img src="imgs/slider/slider3.jpg" alt="" uk-cover>
             <div class="uk-position-center uk-light" style="width: 100%;">
                 <?php include('content_slider.php'); ?>
             </div>
@@ -41,7 +35,7 @@
                 <div class="uk-navbar-left">
 
                     <ul class="uk-navbar-nav">
-                        <li class="uk-active"><a href="#">thông tin dự án</a></li>
+                        <li><a href="#">thông tin dự án</a></li>
                         <li><a href="#">quan hệ quốc tế</a></li>
                         <li><a href="#">dịch vụ trực tuyến</a></li>
                     </ul>
@@ -54,7 +48,7 @@
 </div>
 <div class="uk-section-small">
     <div class="uk-container uk-container-large uk-margin-medium">
-        <h3 class="title_partner uk-text-uppercase uk-text-center">OUR partners</h3>
+        <h3 class="title_partner uk-text-uppercase uk-text-center">đối tác</h3>
         <div id="slider_brand" uk-slider="autoplay: true; autoplay-interval: 3000;">
 
             <div class="uk-position-relative">
@@ -151,21 +145,21 @@
     <div class="uk-container uk-container-large">
         <div class="uk-flex-middle" uk-grid>
             <div class="uk-width-auto@l">
-                <figure class="logo_f uk-invisible uk-visible@l">
+                <figure class="logo_f uk-invisible">
                     <a href="#"><img src="imgs/logo.svg" alt=""></a>
                 </figure>
             </div>
             <div class="uk-width-expand@l">
                 <form class="uk-grid-small uk-grid-collapse box_register uk-grid" uk-grid="">
                     <div class="uk-width-expand uk-first-column">
-                        <input class="uk-input" type="email" placeholder="Đăng kí email ở đây">
+                        <input class="uk-input" type="email" placeholder="Đăng ký email ở đây để nhận các thông tin mới nhất từ EVNSPC">
                     </div>
                     <div class="uk-width-auto">
                         <button type="submit" class="uk-button uk-button-primary">Gửi</button>
                     </div>
                 </form>
             </div>
-            <div class="uk-width-auto@l">
+            <div class="uk-width-1-6@l">
                 <figure class="logo_f uk-invisible uk-visible@l">
                     <a href="#"><img src="imgs/logo.svg" alt=""></a>
                 </figure>

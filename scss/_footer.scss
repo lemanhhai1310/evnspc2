@@ -5,6 +5,9 @@
 .logo_f{
   img{
     height: 46px;
+    @media(min-width: 1600px){
+      height: 60px;
+    }
   }
 }
 .title_f{
@@ -21,11 +24,26 @@
   }
 }
 .social_f{
+  @media(min-width: 1920px){
+    svg{
+      width: 30px;
+    }
+  }
   a{
     color: #333333;
   }
 }
 .author{
+  font-size: 0.9375rem;
+  @media(min-width: 1600px){
+    font-size: 1.0625rem;
+  }
+  @media(min-width: 1800px){
+    font-size: 1.125rem;
+  }
+  @media(min-width: 1920px){
+    font-size: 1.125rem;
+  }
   a{
     .hotline &{
       color: #333333;
@@ -40,5 +58,17 @@
   font-weight: bold;
   span{
     color: #f20022;
+  }
+}
+.info_cty{
+  font-size: 0.875rem;
+  @media(min-width: 1600px){
+    font-size: 1.0625rem;
+  }
+  @media(min-width: 1800px){
+    font-size: 1.125rem;
+  }
+  @media(min-width: 1920px){
+    font-size: 1.125rem;
   }
 }

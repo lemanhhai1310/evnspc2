@@ -16,7 +16,7 @@
                 </div>
                 <div class="uk-margin-small author">© EVNSPC 2018. All right reserved</div>
             </div>
-            <div class="uk-width-auto@l hotline">
+            <div class="uk-width-expand@m uk-width-1-3@l hotline">
                 <div class="uk-grid-small uk-margin-small uk-flex-middle" uk-grid>
                     <div class="uk-width-auto">
                         <img src="imgs/Phone_footer.svg" alt="">

@@ -50,6 +50,15 @@
         position: relative;
         font-family:'SanFranciscoText-Regular';
         font-size: 14.5px;
+        @media(min-width: 1600px){
+          font-size: 1.0625rem;
+        }
+        @media(min-width: 1800px){
+          font-size: 1.125rem;
+        }
+        @media(min-width: 1920px){
+          font-size: 1.125rem;
+        }
         &[aria-expanded]{
           &:before{
             opacity: 0;
