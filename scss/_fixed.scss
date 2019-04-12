@@ -5,6 +5,9 @@
   z-index: 1;
   right: 15px;
   top: 110px;
+  @media(min-width: 1600px){
+    top: 160px;
+  }
   @extend .width_fix;
   .uk-icon-button{
     color: #17479b;
