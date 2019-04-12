@@ -9,6 +9,9 @@
   }
   & + .uk-sticky-placeholder{
     //display: none;
+    @media(min-width: 1920px){
+      max-height: 100px;
+    }
     @media(max-width: 1600px){
       max-height: 75px;
     }
