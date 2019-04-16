@@ -10,3 +10,44 @@ body{
     padding-right: 100px;
   }
 }
+.title_common{
+  font-size: 24px;
+  margin-top: 0;
+  color: #17479b;
+  font-family:'SanFranciscoText-Medium';
+}
+.desc_c{
+  font-family:'SanFranciscoText-Regular';
+  color: #000;
+}
+.common{
+  &.uk-grid-divider{
+    >div{
+      &:not(.uk-first-column){
+        &:before{
+          border-color: #6f6f6f !important;
+        }
+      }
+    }
+  }
+}
+.title_aside{
+  color: #17479b;
+  font-size: 16px;
+  font-family:'SanFranciscoText-Medium';
+  position: relative;
+  padding-bottom: 6px;
+  &:after{
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    border-bottom: 1px solid #6f6f6f;
+    width: calc(100% + 40px);
+  }
+}
+.title_c1{
+  font-size: 16px;
+  color: #17479b;
+  font-family:'SanFranciscoText-Medium';
+}

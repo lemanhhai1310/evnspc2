@@ -1,0 +1,19 @@
+.nav-sidebar{
+  li{
+    &.uk-open{
+      >a{
+        color: #17479b;
+        font-family:'SanFranciscoText-Medium';
+      }
+    }
+    a{
+      text-transform: uppercase;
+      color: #333333 !important;
+      font-family:'SanFranciscoText-Regular';
+      &:hover{
+        color: #17479b !important;
+        font-family:'SanFranciscoText-Medium';
+      }
+    }
+  }
+}
