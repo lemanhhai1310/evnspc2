@@ -49,7 +49,7 @@
             'title' => 'văn hóa doanh nghiệp',
         ),
         array(
-            'href' => '',
+            'href' => 'vechungtoi-thanhtic.php',
             'title' => 'thành tích evnspc',
         ),
         array(

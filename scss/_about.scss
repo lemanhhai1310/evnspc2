@@ -40,3 +40,17 @@
     }
   }
 }
+.boximg_thanhtic{
+  min-width: 200px;
+  width: 100%;
+  text-align: center;
+}
+.title_thanhtic{
+  font-family:'SanFranciscoText-Regular';
+  color: #000;
+  margin: 0;
+  font-size: 15px;
+  &:nth-child(n+2){
+    margin-top: 15px;
+  }
+}
