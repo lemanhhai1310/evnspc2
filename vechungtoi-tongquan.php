@@ -23,6 +23,34 @@
             <p class="desc_c">Tổng công ty Điện lực miền Nam quản lý lưới điện phân phối từ 110 kV trở xuống và kinh doanh bán điện trên địa bàn 21 tỉnh / thành phố phía Nam với các nhiệm vụ và chỉ tiêu kinh tế kỹ thuật (kể cả Đồng Nai) như sau :</p>
             <h3 class="title_c1 uk-text-uppercase">địa bàn hoạt động</h3>
             <img src="imgs/MAP.svg" alt="">
+            <div class="uk-flex-middle" uk-grid>
+                <div class="uk-width-auto@s">
+                    <div class="boximg_tq">
+                        <img src="imgs/About/Frame1.svg" alt="">
+                    </div>
+                </div>
+                <div class="uk-width-expand@s">
+                    <div class="uk-padding-small">
+                        <h4 class="title_tq1 uk-text-uppercase">sản lượng điện thương phẩm</h4>
+                        <h3 class="title_tq2">66 tỷ 669 triệu kWh</h3>
+                        <time class="time1">(năm 2018)</time>
+                    </div>
+                </div>
+            </div>
+            <div class="uk-flex-middle" uk-grid>
+                <div class="uk-width-auto@s">
+                    <div class="boximg_tq">
+                        <img src="imgs/About/Frame2.svg" alt="">
+                    </div>
+                </div>
+                <div class="uk-width-expand@s">
+                    <div class="uk-padding-small">
+                        <h4 class="title_tq1 uk-text-uppercase">tổng khách hàng sử dụng điện</h4>
+                        <h3 class="title_tq2">7 triệu 966 khách hàng</h3>
+                        <time class="time1">(Tính đến 31/12/2018)</time>
+                    </div>
+                </div>
+            </div>
             <h3 class="title_c1 uk-text-uppercase">ngành nghề kinh doanh</h3>
             <div class="uk-child-width-1-2 uk-child-width-1-3@m uk-grid-medium" uk-grid>
                 <?php
