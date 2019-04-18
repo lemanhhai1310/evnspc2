@@ -53,7 +53,7 @@
             'title' => 'thành tích evnspc',
         ),
         array(
-            'href' => '',
+            'href' => 'vechungtoi-doitac.php',
             'title' => 'đối tác evnspc',
         ),
     );

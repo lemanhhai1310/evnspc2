@@ -82,6 +82,8 @@
                                         <li><a href="#">Sự kiện văn hóa</a></li>
                                     </ul>
                                 </li>
+                                <li><a href="#">Thành tích EVNSPC</a></li>
+                                <li><a href="vechungtoi-doitac.php">Đối tác EVNSPC</a></li>
                             </ul>
                         </div>
                     </li>
