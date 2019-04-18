@@ -1,0 +1,23 @@
+.uk-pagination{
+  li{
+    a{
+
+    }
+    a,span{
+      display: inline-flex;
+      width: 40px;
+      height: 40px;
+      background-color: #fff;
+      align-items: center;
+      justify-content: center;
+      font-family:'SanFranciscoText-Medium';
+      color: #17479b;
+    }
+    &.uk-active{
+      span{
+        border: 1px solid #17479b;
+        color: #17479b;
+      }
+    }
+  }
+}
