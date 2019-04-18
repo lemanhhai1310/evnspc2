@@ -7,7 +7,7 @@
             'title' => 'tổng quan',
         ),
         array(
-            'href' => '',
+            'href' => 'vechungtoi-chinhsachchatluong.php',
             'title' => 'chính sách chất lượng',
         ),
         array(

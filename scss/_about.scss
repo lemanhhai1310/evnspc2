@@ -18,3 +18,25 @@
   min-width: 219px;
   width: 100%;
 }
+.card2{
+  .uk-card-body{
+    time{
+      color: #6f6f6f;
+      font-family:'SanFranciscoText-Regular';
+    }
+    .uk-card-title{
+      margin: 0;
+      margin-top: 5px;
+      font-family:'SanFranciscoText-Medium';
+      a{
+        color: #333333;
+      }
+    }
+    p{
+      font-family:'SanFranciscoText-Regular';
+    }
+    .uk-link{
+      color: #17479b;
+    }
+  }
+}

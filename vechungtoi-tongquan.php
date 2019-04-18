@@ -23,7 +23,7 @@
             <p class="desc_c">Tổng công ty Điện lực miền Nam quản lý lưới điện phân phối từ 110 kV trở xuống và kinh doanh bán điện trên địa bàn 21 tỉnh / thành phố phía Nam với các nhiệm vụ và chỉ tiêu kinh tế kỹ thuật (kể cả Đồng Nai) như sau :</p>
             <h3 class="title_c1 uk-text-uppercase">địa bàn hoạt động</h3>
             <img src="imgs/MAP.svg" alt="">
-            <div class="uk-flex-middle" uk-grid>
+            <div class="uk-flex-middle uk-margin-medium" uk-grid>
                 <div class="uk-width-auto@s">
                     <div class="boximg_tq">
                         <img src="imgs/About/Frame1.svg" alt="">
@@ -37,7 +37,7 @@
                     </div>
                 </div>
             </div>
-            <div class="uk-flex-middle" uk-grid>
+            <div class="uk-flex-middle uk-margin-medium" uk-grid>
                 <div class="uk-width-auto@s">
                     <div class="boximg_tq">
                         <img src="imgs/About/Frame2.svg" alt="">
