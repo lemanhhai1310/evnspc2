@@ -15,7 +15,7 @@
             'title' => 'QUÁ TRÌNH HÌNH THÀNH VÀ PHÁT TRIỂN',
         ),
         array(
-            'href' => '',
+            'href' => 'vechungtoi-bandieuhanh.php',
             'title' => 'ban điều hành',
         ),
         array(
@@ -47,6 +47,28 @@
         array(
             'href' => '',
             'title' => 'văn hóa doanh nghiệp',
+            'sub' => array(
+                array(
+                    'href' => '',
+                    'title' => 'tin mới',
+                ),
+                array(
+                    'href' => '',
+                    'title' => 'câu chuyện văn hóa',
+                ),
+                array(
+                    'href' => '',
+                    'title' => 'Văn hóa EVNSPC VỚI KHÁCH HÀNG',
+                ),
+                array(
+                    'href' => '',
+                    'title' => 'gương điển hình',
+                ),
+                array(
+                    'href' => '',
+                    'title' => 'sự kiện văn hóa',
+                ),
+            ),
         ),
         array(
             'href' => 'vechungtoi-thanhtic.php',

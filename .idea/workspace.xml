@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0452858-05cf-451a-bf76-6a7452f6dca0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/vechungtoi-thanhtic.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vechungtoi-bandieuhanh.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/layout.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/layout.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/layout.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/header.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/nav-left.php" beforeDir="false" afterPath="$PROJECT_DIR$/nav-left.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_about.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_about.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_nav-sidebar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_nav-sidebar.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,8 +22,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/nav-left.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="289">
-                  <caret line="51" column="48" lean-forward="true" selection-start-line="51" selection-start-column="48" selection-end-line="51" selection-end-column="48" />
+                <state relative-caret-position="270">
+                  <caret line="18" column="39" lean-forward="true" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
                 </state>
               </provider>
             </entry>
@@ -31,17 +31,17 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/header.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="97">
-                  <caret line="59" column="57" selection-start-line="59" selection-start-column="57" selection-end-line="59" selection-end-column="57" />
+                <state relative-caret-position="397">
+                  <caret line="79" column="42" lean-forward="true" selection-start-line="79" selection-start-column="42" selection-end-line="79" selection-end-column="42" />
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/vechungtoi-thanhtic.php">
+            <entry file="file://$PROJECT_DIR$/vechungtoi-bandieuhanh.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="502">
-                  <caret line="49" column="55" selection-start-line="49" selection-start-column="55" selection-end-line="49" selection-end-column="55" />
+                <state relative-caret-position="300">
+                  <caret line="20" column="73" selection-start-line="20" selection-start-column="73" selection-end-line="20" selection-end-column="73" />
                 </state>
               </provider>
             </entry>
@@ -72,7 +72,7 @@
             <entry file="file://$PROJECT_DIR$/scss/layout.scss">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="210">
-                  <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+                  <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
                 </state>
               </provider>
             </entry>
@@ -81,16 +81,16 @@
             <entry file="file://$PROJECT_DIR$/scss/_pagination.scss">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="330">
-                  <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+                  <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="false">
+          <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/scss/_nav-sidebar.scss">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="270">
-                  <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+                  <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
                 </state>
               </provider>
             </entry>
@@ -117,16 +117,16 @@
             <entry file="file://$PROJECT_DIR$/scss/_commons.scss">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="120">
-                  <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+                  <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/scss/_about.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="604">
-                  <caret line="51" column="18" selection-start-line="51" selection-start-column="18" selection-end-line="51" selection-end-column="18" />
+                <state relative-caret-position="94">
+                  <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
                 </state>
               </provider>
             </entry>
@@ -188,7 +188,6 @@
         <option value="$PROJECT_DIR$/scss/_header.scss" />
         <option value="$PROJECT_DIR$/scss/_breadcrumb.scss" />
         <option value="$PROJECT_DIR$/scss/_fonts.scss" />
-        <option value="$PROJECT_DIR$/scss/_nav-sidebar.scss" />
         <option value="$PROJECT_DIR$/vechungtoi-tongquan.php" />
         <option value="$PROJECT_DIR$/block_top_trangcon.php" />
         <option value="$PROJECT_DIR$/vechungtoi-chinhsachchatluong.php" />
@@ -196,10 +195,12 @@
         <option value="$PROJECT_DIR$/scss/layout.scss" />
         <option value="$PROJECT_DIR$/scss/_pagination.scss" />
         <option value="$PROJECT_DIR$/vechungtoi-doitac.php" />
-        <option value="$PROJECT_DIR$/nav-left.php" />
         <option value="$PROJECT_DIR$/header.php" />
         <option value="$PROJECT_DIR$/scss/_about.scss" />
         <option value="$PROJECT_DIR$/vechungtoi-thanhtic.php" />
+        <option value="$PROJECT_DIR$/scss/_nav-sidebar.scss" />
+        <option value="$PROJECT_DIR$/nav-left.php" />
+        <option value="$PROJECT_DIR$/vechungtoi-bandieuhanh.php" />
       </list>
     </option>
   </component>
@@ -244,7 +245,7 @@
               <item name="html.evnspc" type="462c0819:PsiDirectoryNode" />
               <item name="imgs" type="462c0819:PsiDirectoryNode" />
               <item name="About" type="462c0819:PsiDirectoryNode" />
-              <item name="thanhtic" type="462c0819:PsiDirectoryNode" />
+              <item name="bandieuhanh" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -272,11 +273,11 @@
       <recent name="$PROJECT_DIR$/scss" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/imgs/About/bandieuhanh" />
       <recent name="$PROJECT_DIR$/imgs/About" />
       <recent name="$PROJECT_DIR$/imgs/banner_trangcon" />
       <recent name="$PROJECT_DIR$/html" />
       <recent name="$PROJECT_DIR$/imgs" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -316,7 +317,7 @@
       <workItem from="1555094208993" duration="2435000" />
       <workItem from="1555386719962" duration="8716000" />
       <workItem from="1555561350829" duration="4570000" />
-      <workItem from="1555573783674" duration="5233000" />
+      <workItem from="1555573783674" duration="6119000" />
     </task>
     <task id="LOCAL-00001" summary="Tạo project">
       <created>1554399808379</created>
@@ -371,7 +372,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="92499000" />
+    <option name="totallyTimeSpent" value="93385000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="821" extended-state="0" />
@@ -473,22 +474,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="thêm danh mục con menu theo file của khách hàng gửi" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/scss/_mobile_menu.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/evnspc2-238bd8f4341cf44a40faed583e030bafb4ff329f/footer.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imgs/slider/slider img.svg" />
-    <entry file="file://$PROJECT_DIR$/imgs/slider/slider5.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imgs/VN/slider img.png" />
-    <entry file="file://$PROJECT_DIR$/imgs/VN/Rectangle.png" />
     <entry file="file://$PROJECT_DIR$/imgs/scrol up 2.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -682,13 +667,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scss/_nav-sidebar.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scss/_breadcrumb.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -713,14 +691,14 @@
     <entry file="file://$PROJECT_DIR$/scss/_commons.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scss/layout.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -745,41 +723,70 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nav-left.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="51" column="48" lean-forward="true" selection-start-line="51" selection-start-column="48" selection-end-line="51" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
-          <caret line="59" column="57" selection-start-line="59" selection-start-column="57" selection-end-line="59" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scss/_pagination.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/imgs/About/thanhtic/img4.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/scss/_about.scss">
+    <entry file="file://$PROJECT_DIR$/vechungtoi-thanhtic.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="604">
-          <caret line="51" column="18" selection-start-line="51" selection-start-column="18" selection-end-line="51" selection-end-column="18" />
+        <state relative-caret-position="412">
+          <caret line="43" column="59" selection-start-line="43" selection-start-column="59" selection-end-line="43" selection-end-column="59" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vechungtoi-thanhtic.php">
+    <entry file="file://$PROJECT_DIR$/scss/_about.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="502">
-          <caret line="49" column="55" selection-start-line="49" selection-start-column="55" selection-end-line="49" selection-end-column="55" />
+        <state relative-caret-position="94">
+          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imgs/About/bandieuhanh/phamngocle.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imgs/About/bandieuhanh/nguyenvanhop.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imgs/About/bandieuhanh/nguyenphuocduc.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imgs/About/bandieuhanh/nguyenconghau.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imgs/About/bandieuhanh/lamxuantuan.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="79" column="42" lean-forward="true" selection-start-line="79" selection-start-column="42" selection-end-line="79" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/_nav-sidebar.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nav-left.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="39" lean-forward="true" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vechungtoi-bandieuhanh.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="73" selection-start-line="20" selection-start-column="73" selection-end-line="20" selection-end-column="73" />
         </state>
       </provider>
     </entry>
