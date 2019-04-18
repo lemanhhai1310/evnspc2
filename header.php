@@ -61,7 +61,7 @@
                                 <li><a href="vechungtoi-tongquan.php">Tổng quan</a></li>
                                 <li><a href="vechungtoi-chinhsachchatluong.php">Chính sách chất lượng</a></li>
                                 <li><a href="#">Quá trình hình thành phát triển</a></li>
-                                <li><a href="#">Ban điều hành</a></li>
+                                <li><a href="vechungtoi-bandieuhanh.php">Ban điều hành</a></li>
                                 <li><a href="#">Sơ đồ tổ chức</a></li>
                                 <li><a href="#">Đơn vị thành viên</a></li>
                                 <li>

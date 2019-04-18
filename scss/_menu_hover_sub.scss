@@ -18,7 +18,7 @@
     >li{
       position: relative;
       >.uk-nav{
-        display: none !important;
+        //display: none !important;
       }
       &:nth-child(n+2){
         >a{
@@ -61,7 +61,7 @@
         }
         &[aria-expanded]{
           &:before{
-            opacity: 0;
+            //opacity: 0;
             content: "\f105";
             font-family: FontAwesome;
             position: absolute;
