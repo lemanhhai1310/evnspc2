@@ -23,7 +23,7 @@
             'title' => 'sơ đồ tổ chức',
         ),
         array(
-            'href' => '',
+            'href' => 'vechungtoi-donvithanhvien.php',
             'title' => 'đơn vị thành viên',
         ),
         array(

@@ -63,7 +63,7 @@
                                 <li><a href="#">Quá trình hình thành phát triển</a></li>
                                 <li><a href="vechungtoi-bandieuhanh.php">Ban điều hành</a></li>
                                 <li><a href="#">Sơ đồ tổ chức</a></li>
-                                <li><a href="#">Đơn vị thành viên</a></li>
+                                <li><a href="vechungtoi-donvithanhvien.php">Đơn vị thành viên</a></li>
                                 <li>
                                     <a href="#">Công bố thông tin</a>
                                     <ul class="uk-nav uk-navbar-dropdown-nav" uk-dropdown="pos: right-top; animation: uk-animation-slide-bottom-small; duration: 300">
