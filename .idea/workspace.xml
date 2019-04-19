@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0452858-05cf-451a-bf76-6a7452f6dca0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/css/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/layout.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/layout.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/layout.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_about.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_about.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vechungtoi-sodotochuc.php" beforeDir="false" afterPath="$PROJECT_DIR$/vechungtoi-sodotochuc.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,11 +14,11 @@
     <splitter split-orientation="horizontal" split-proportion="0.60580206">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/nav-left.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="158">
-                  <caret line="37" column="27" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="27" />
+                <state relative-caret-position="128">
+                  <caret line="35" column="25" lean-forward="true" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
                 </state>
               </provider>
             </entry>
@@ -28,6 +26,15 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/vechungtoi-congbothongtinevnspc.php">
               <provider selected="true" editor-type-id="text-editor" />
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/vechungtoi-sodotochuc.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="105">
+                  <caret line="7" column="64" selection-start-line="7" selection-start-column="64" selection-end-line="7" selection-end-column="64" />
+                </state>
+              </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
@@ -127,8 +134,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/scss/_about.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="597">
-                  <caret line="135" column="28" selection-start-line="135" selection-start-column="28" selection-end-line="135" selection-end-column="28" />
+                <state relative-caret-position="357">
+                  <caret line="119" column="3" lean-forward="true" selection-start-line="119" selection-start-column="3" selection-end-line="119" selection-end-column="3" />
                 </state>
               </provider>
             </entry>
@@ -200,12 +207,12 @@
         <option value="$PROJECT_DIR$/scss/_menu_hover_sub.scss" />
         <option value="$PROJECT_DIR$/scss/_fonts.scss" />
         <option value="$PROJECT_DIR$/vechungtoi-donvithanhvien.php" />
-        <option value="$PROJECT_DIR$/vechungtoi-sodotochuc.php" />
         <option value="$PROJECT_DIR$/header.php" />
         <option value="$PROJECT_DIR$/vechungtoi-bandieuhanh.php" />
         <option value="$PROJECT_DIR$/scss/_about.scss" />
         <option value="$PROJECT_DIR$/vechungtoi-congbothongtinevnspc.php" />
         <option value="$PROJECT_DIR$/nav-left.php" />
+        <option value="$PROJECT_DIR$/vechungtoi-sodotochuc.php" />
       </list>
     </option>
   </component>
@@ -322,7 +329,7 @@
       <workItem from="1555561350829" duration="4570000" />
       <workItem from="1555573783674" duration="9363000" />
       <workItem from="1555643813700" duration="12056000" />
-      <workItem from="1555667897180" duration="3061000" />
+      <workItem from="1555667897180" duration="3379000" />
     </task>
     <task id="LOCAL-00001" summary="Tạo project">
       <created>1554399808379</created>
@@ -377,7 +384,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="111746000" />
+    <option name="totallyTimeSpent" value="112064000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="829" extended-state="6" />
@@ -681,13 +688,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vechungtoi-sodotochuc.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="51" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vechungtoi-donvithanhvien.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1080">
@@ -779,20 +779,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scss/_about.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="597">
-          <caret line="135" column="28" selection-start-line="135" selection-start-column="28" selection-end-line="135" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vechungtoi-congbothongtinevnspc.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/scss/_about.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="119" column="3" lean-forward="true" selection-start-line="119" selection-start-column="3" selection-end-line="119" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/nav-left.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="37" column="27" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="27" />
+        <state relative-caret-position="128">
+          <caret line="35" column="25" lean-forward="true" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vechungtoi-sodotochuc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="64" selection-start-line="7" selection-start-column="64" selection-end-line="7" selection-end-column="64" />
         </state>
       </provider>
     </entry>

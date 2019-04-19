@@ -5,7 +5,7 @@
     (
         array(
             'title' => 'về chúng tôi',
-            'src' => 'imgs/banner_trangcon/vechungtoi-congbothongtinevnspc.png',
+            'src' => 'imgs/banner_trangcon/vechungtoi-sodotochuc.png',
         )
     );
     foreach ($cars as $key => $value) { ?>
