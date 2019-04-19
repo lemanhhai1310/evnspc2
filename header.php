@@ -1,6 +1,5 @@
 <?php
 $activePage = basename($_SERVER['PHP_SELF'], ".php");
-echo $activePage;
 ?>
 <!DOCTYPE html>
 <html lang="vi">

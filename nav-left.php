@@ -40,17 +40,17 @@
                 array(
                     'href' => '',
                     'title' => 'thông cáo báo chí',
-                    'active' => '',
+                    'active-sub' => '',
                 ),
                 array(
                     'href' => 'vechungtoi-congbothongtinevnspc.php',
                     'title' => 'công bố thông tin evn spc',
-                    'active' => 'vechungtoi-congbothongtinevnspc',
+                    'active-sub' => 'vechungtoi-congbothongtinevnspc',
                 ),
                 array(
                     'href' => '',
                     'title' => 'đề án tái cơ cấu doanh nghiệp',
-                    'active' => '',
+                    'active-sub' => '',
                 ),
             ),
         ),
@@ -62,27 +62,27 @@
                 array(
                     'href' => '',
                     'title' => 'tin mới',
-                    'active' => '',
+                    'active-sub' => '',
                 ),
                 array(
                     'href' => '',
                     'title' => 'câu chuyện văn hóa',
-                    'active' => '',
+                    'active-sub' => '',
                 ),
                 array(
                     'href' => '',
                     'title' => 'Văn hóa EVNSPC VỚI KHÁCH HÀNG',
-                    'active' => '',
+                    'active-sub' => '',
                 ),
                 array(
                     'href' => '',
                     'title' => 'gương điển hình',
-                    'active' => '',
+                    'active-sub' => '',
                 ),
                 array(
                     'href' => '',
                     'title' => 'sự kiện văn hóa',
-                    'active' => '',
+                    'active-sub' => '',
                 ),
             ),
         ),
@@ -98,12 +98,12 @@
         ),
     );
     foreach ($nav as $key => $value) { ?>
-        <li class="<?= ($activePage == $value['active']) ? 'uk-open' : ''; ?> <?= (isset($value['sub'])) ? 'uk-parent' : ''; ?>">
+        <li class="<?= ($activePage == $value['active']) ? 'uk-open' : ''; ?><?= (isset($value['sub'])) ? 'uk-parent' : ''; ?>">
             <a href="<?php echo $value['href']; ?>"><?php echo $value['title']; ?></a>
             <?php if (isset($value['sub'])) { ?>
                 <ul class="uk-nav-sub">
                     <?php foreach ($value['sub'] as $k => $v) { ?>
-                        <li class="<?= ($activePage == $v['active']) ? 'uk-open' : ''; ?> <?= (isset($value['sub'])) ? 'uk-parent' : ''; ?>"><a href="<?php echo $v['href']; ?>"><?php echo $v['title']; ?></a></li>
+                        <li class="<?= ($activePage == $v['active-sub']) ? 'uk-open' : ''; ?>"><a href="<?php echo $v['href']; ?>"><?php echo $v['title']; ?></a></li>
                     <?php } ?>
                 </ul>
             <?php } ?>

@@ -37,7 +37,7 @@
                     </div>
                 </div>
             </div>
-            <div class="uk-flex-center uk-margin-large" uk-grid>
+            <div class="uk-flex-center uk-margin-large" uk-grid uk-height-match="target: > div > .box1_bdh">
                 <div class="uk-width-auto">
                     <div class="box1_bdh">
                         <img src="imgs/About/bandieuhanh/phamngocle.png" alt="">
