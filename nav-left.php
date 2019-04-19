@@ -35,7 +35,7 @@
                     'title' => 'thông cáo báo chí',
                 ),
                 array(
-                    'href' => '',
+                    'href' => 'vechungtoi-congbothongtinevnspc.php',
                     'title' => 'công bố thông tin evn spc',
                 ),
                 array(

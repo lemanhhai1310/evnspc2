@@ -68,7 +68,7 @@
                                     <a href="#">Công bố thông tin</a>
                                     <ul class="uk-nav uk-navbar-dropdown-nav" uk-dropdown="pos: right-top; animation: uk-animation-slide-bottom-small; duration: 300">
                                         <li><a href="#">Thông cáo báo chí</a></li>
-                                        <li><a href="#">Công bố thông tin EVN SPC</a></li>
+                                        <li><a href="vechungtoi-congbothongtinevnspc.php">Công bố thông tin EVN SPC</a></li>
                                         <li><a href="#">Đề án tái cơ cấu doanh nghiệp</a></li>
                                     </ul>
                                 </li>
