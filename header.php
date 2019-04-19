@@ -1,3 +1,7 @@
+<?php
+$activePage = basename($_SERVER['PHP_SELF'], ".php");
+echo $activePage;
+?>
 <!DOCTYPE html>
 <html lang="vi">
 <head>
@@ -62,7 +66,7 @@
                                 <li><a href="vechungtoi-chinhsachchatluong.php">Chính sách chất lượng</a></li>
                                 <li><a href="#">Quá trình hình thành phát triển</a></li>
                                 <li><a href="vechungtoi-bandieuhanh.php">Ban điều hành</a></li>
-                                <li><a href="#">Sơ đồ tổ chức</a></li>
+                                <li><a href="vechungtoi-sodotochuc.php">Sơ đồ tổ chức</a></li>
                                 <li><a href="vechungtoi-donvithanhvien.php">Đơn vị thành viên</a></li>
                                 <li>
                                     <a href="#">Công bố thông tin</a>
@@ -82,7 +86,7 @@
                                         <li><a href="#">Sự kiện văn hóa</a></li>
                                     </ul>
                                 </li>
-                                <li><a href="vechungtoi-thanhtic.php">Thành tích EVNSPC</a></li>
+                                <li><a href="vechungtoi-thanhtich.php">Thành tích EVNSPC</a></li>
                                 <li><a href="vechungtoi-doitac.php">Đối tác EVNSPC</a></li>
                             </ul>
                         </div>
