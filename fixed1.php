@@ -1,4 +1,4 @@
-<div class=" uk-position-fixed fixed1">
+<div class=" uk-position-fixed fixed1 uk-visible@m">
     <div class="uk-margin-small uk-text-center">
         <a uk-search-icon uk-toggle="target: .nav-overlay; animation: uk-animation-fade" href="" class="uk-icon-button"></a>
     </div>
