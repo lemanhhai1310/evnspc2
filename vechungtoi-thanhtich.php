@@ -5,7 +5,7 @@
     (
         array(
             'title' => 'về chúng tôi',
-            'src' => 'imgs/banner_trangcon/vechungtoi-thanhtic.png',
+            'src' => 'imgs/banner_trangcon/vechungtoi-thanhtich.png',
         )
     );
     foreach ($cars as $key => $value) { ?>
@@ -21,7 +21,7 @@
             <h2 class="uk-text-uppercase title_common">THÀNH TÍCH EVNSPC</h2>
             <div class="uk-flex-middle uk-margin-medium" uk-grid>
                 <div class="uk-width-auto@s">
-                    <div class="boximg_thanhtic"><img src="imgs/About/thanhtic/img1.png" alt=""></div>
+                    <div class="boximg_thanhtic"><img src="imgs/About/thanhtich/img1.png" alt=""></div>
                 </div>
                 <div class="uk-width-expand@s">
                     <h5 class="uk-text-uppercase title_thanhtic">Anh hùng Lao độngthời kỳ đổi mới (năm 2005)</h5>
@@ -29,7 +29,7 @@
             </div>
             <div class="uk-flex-middle uk-margin-medium" uk-grid>
                 <div class="uk-width-auto@s">
-                    <div class="boximg_thanhtic"><img src="imgs/About/thanhtic/img2.png" alt=""></div>
+                    <div class="boximg_thanhtic"><img src="imgs/About/thanhtich/img2.png" alt=""></div>
                 </div>
                 <div class="uk-width-expand@s">
                     <h5 class="uk-text-uppercase title_thanhtic">1 Huân chương Độc lập hạng Nhì</h5>
@@ -38,7 +38,7 @@
             </div>
             <div class="uk-flex-middle uk-margin-medium" uk-grid>
                 <div class="uk-width-auto@s">
-                    <div class="boximg_thanhtic"><img src="imgs/About/thanhtic/img3.png" alt=""></div>
+                    <div class="boximg_thanhtic"><img src="imgs/About/thanhtich/img3.png" alt=""></div>
                 </div>
                 <div class="uk-width-expand@s">
                     <h5 class="uk-text-uppercase title_thanhtic">1 Huân chương Lao động hạng Nhất</h5>
@@ -49,7 +49,7 @@
             </div>
             <div class="uk-flex-middle uk-margin-medium" uk-grid>
                 <div class="uk-width-auto@s">
-                    <div class="boximg_thanhtic"><img src="imgs/About/thanhtic/img4.png" alt=""></div>
+                    <div class="boximg_thanhtic"><img src="imgs/About/thanhtich/img4.png" alt=""></div>
                 </div>
                 <div class="uk-width-expand@s">
                     <h5 class="uk-text-uppercase title_thanhtic">Cờ Chính phủ (2008)</h5>

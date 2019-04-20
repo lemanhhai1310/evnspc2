@@ -13,9 +13,9 @@
             'active' => 'vechungtoi-chinhsachchatluong',
         ),
         array(
-            'href' => '',
+            'href' => 'vechungtoi-quatrinhhinhthanhvaphattrien.php',
             'title' => 'QUÁ TRÌNH HÌNH THÀNH VÀ PHÁT TRIỂN',
-            'active' => '',
+            'active' => 'vechungtoi-quatrinhhinhthanhvaphattrien',
         ),
         array(
             'href' => 'vechungtoi-bandieuhanh.php',

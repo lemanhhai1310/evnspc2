@@ -2,10 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0452858-05cf-451a-bf76-6a7452f6dca0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/vechungtoi-quatrinhhinhthanhvaphattrien.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/layout.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/layout.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/layout.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fixed1.php" beforeDir="false" afterPath="$PROJECT_DIR$/fixed1.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_commons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_commons.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/About/thanhtic/img1.png" beforeDir="false" afterPath="$PROJECT_DIR$/imgs/About/thanhtich/img1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/About/thanhtic/img2.png" beforeDir="false" afterPath="$PROJECT_DIR$/imgs/About/thanhtich/img2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/About/thanhtic/img3.png" beforeDir="false" afterPath="$PROJECT_DIR$/imgs/About/thanhtich/img3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/About/thanhtic/img3.svg" beforeDir="false" afterPath="$PROJECT_DIR$/imgs/About/thanhtich/img3.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/About/thanhtic/img4.png" beforeDir="false" afterPath="$PROJECT_DIR$/imgs/About/thanhtich/img4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nav-left.php" beforeDir="false" afterPath="$PROJECT_DIR$/nav-left.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_about.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_about.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vechungtoi-bandieuhanh.php" beforeDir="false" afterPath="$PROJECT_DIR$/vechungtoi-bandieuhanh.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vechungtoi-thanhtich.php" beforeDir="false" afterPath="$PROJECT_DIR$/vechungtoi-thanhtich.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,38 +30,26 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/nav-left.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="128">
-                  <caret line="35" column="25" lean-forward="true" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
+                <state relative-caret-position="492">
+                  <caret line="38" column="27" selection-start-line="38" selection-start-column="27" selection-end-line="38" selection-end-column="27" />
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/vechungtoi-sodotochuc.php">
+            <entry file="file://$PROJECT_DIR$/header.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="396">
-                  <caret line="44" column="30" lean-forward="true" selection-start-line="44" selection-start-column="30" selection-end-line="44" selection-end-column="30" />
-                  <folding>
-                    <element signature="e#753#3490#0#HTML" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/vechungtoi-bandieuhanh.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="316">
-                  <caret line="52" column="26" lean-forward="true" selection-start-line="52" selection-start-column="26" selection-end-line="52" selection-end-column="26" />
+                <state relative-caret-position="420">
+                  <caret line="65" column="88" selection-start-line="65" selection-start-column="88" selection-end-line="65" selection-end-column="88" />
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/fixed1.php">
+            <entry file="file://$PROJECT_DIR$/vechungtoi-quatrinhhinhthanhvaphattrien.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state>
-                  <caret column="51" selection-start-column="51" selection-end-column="51" />
+                <state relative-caret-position="472">
+                  <caret line="62" column="65" selection-start-line="62" selection-start-column="65" selection-end-line="62" selection-end-column="65" />
                 </state>
               </provider>
             </entry>
@@ -60,19 +58,7 @@
             <entry file="file://$PROJECT_DIR$/scss/_fonts.scss">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="387">
-                  <caret line="26" column="11" lean-forward="true" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/vechungtoi-donvithanhvien.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="360">
-                  <caret line="78" column="17" lean-forward="true" selection-start-line="24" selection-start-column="12" selection-end-line="78" selection-end-column="17" />
-                  <folding>
-                    <element signature="e#875#3612#0#HTML" />
-                  </folding>
+                  <caret line="26" column="11" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
                 </state>
               </provider>
             </entry>
@@ -135,20 +121,20 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/scss/_commons.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="605">
-                  <caret line="69" column="41" selection-start-line="69" selection-start-column="41" selection-end-line="69" selection-end-column="41" />
+                <state relative-caret-position="219">
+                  <caret line="47" column="3" selection-start-line="47" selection-start-column="3" selection-end-line="47" selection-end-column="3" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="false">
+          <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/scss/_about.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="128">
-                  <caret line="157" column="3" lean-forward="true" selection-start-line="157" selection-start-column="3" selection-end-line="157" selection-end-column="3" />
+                <state relative-caret-position="267">
+                  <caret line="86" column="31" lean-forward="true" selection-start-line="86" selection-start-column="31" selection-end-line="86" selection-end-column="31" />
                   <folding>
                     <element signature="e#2747#2765#0" />
                   </folding>
@@ -221,14 +207,15 @@
         <option value="$PROJECT_DIR$/scss/_menu_hover_sub.scss" />
         <option value="$PROJECT_DIR$/scss/_fonts.scss" />
         <option value="$PROJECT_DIR$/vechungtoi-donvithanhvien.php" />
-        <option value="$PROJECT_DIR$/header.php" />
-        <option value="$PROJECT_DIR$/vechungtoi-bandieuhanh.php" />
         <option value="$PROJECT_DIR$/vechungtoi-congbothongtinevnspc.php" />
-        <option value="$PROJECT_DIR$/nav-left.php" />
-        <option value="$PROJECT_DIR$/vechungtoi-sodotochuc.php" />
-        <option value="$PROJECT_DIR$/scss/_about.scss" />
         <option value="$PROJECT_DIR$/scss/_commons.scss" />
         <option value="$PROJECT_DIR$/fixed1.php" />
+        <option value="$PROJECT_DIR$/vechungtoi-sodotochuc.php" />
+        <option value="$PROJECT_DIR$/vechungtoi-bandieuhanh.php" />
+        <option value="$PROJECT_DIR$/scss/_about.scss" />
+        <option value="$PROJECT_DIR$/header.php" />
+        <option value="$PROJECT_DIR$/nav-left.php" />
+        <option value="$PROJECT_DIR$/vechungtoi-quatrinhhinhthanhvaphattrien.php" />
       </list>
     </option>
   </component>
@@ -271,6 +258,17 @@
             <path>
               <item name="html.evnspc" type="b2602c69:ProjectViewProjectNode" />
               <item name="html.evnspc" type="462c0819:PsiDirectoryNode" />
+              <item name="imgs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="html.evnspc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="html.evnspc" type="462c0819:PsiDirectoryNode" />
+              <item name="imgs" type="462c0819:PsiDirectoryNode" />
+              <item name="About" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="html.evnspc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="html.evnspc" type="462c0819:PsiDirectoryNode" />
               <item name="scss" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -291,19 +289,19 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/imgs/About/bandieuhanh" />
-      <recent name="$PROJECT_DIR$/imgs/About" />
-      <recent name="$PROJECT_DIR$/imgs/banner_trangcon" />
-      <recent name="$PROJECT_DIR$/html" />
-      <recent name="$PROJECT_DIR$/imgs" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/fonts/Roboto" />
       <recent name="$PROJECT_DIR$/imgs" />
       <recent name="$PROJECT_DIR$/tmp" />
       <recent name="$PROJECT_DIR$/scss" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/imgs/About/bandieuhanh" />
+      <recent name="$PROJECT_DIR$/imgs/About" />
+      <recent name="$PROJECT_DIR$/imgs/banner_trangcon" />
+      <recent name="$PROJECT_DIR$/html" />
+      <recent name="$PROJECT_DIR$/imgs" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -345,7 +343,7 @@
       <workItem from="1555561350829" duration="4570000" />
       <workItem from="1555573783674" duration="9363000" />
       <workItem from="1555643813700" duration="12056000" />
-      <workItem from="1555667897180" duration="9138000" />
+      <workItem from="1555667897180" duration="11983000" />
     </task>
     <task id="LOCAL-00001" summary="Tạo project">
       <created>1554399808379</created>
@@ -400,7 +398,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="117823000" />
+    <option name="totallyTimeSpent" value="120668000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="826" extended-state="6" />
@@ -410,7 +408,7 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3283582" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32833788" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -502,23 +500,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="thêm danh mục con menu theo file của khách hàng gửi" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tmp/tmp.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="18034" lean-forward="true" selection-start-line="18034" selection-end-line="18034" />
-          <folding>
-            <element signature="e#105183#105383#2" expanded="true" />
-            <element signature="e#105615#105764#2" expanded="true" />
-            <element signature="e#106330#106476#2" expanded="true" />
-            <element signature="e#106844#107010#1" expanded="true" />
-            <element signature="e#121903#122146#2" expanded="true" />
-            <element signature="e#123163#123412#2" expanded="true" />
-            <element signature="e#156950#157140#2" expanded="true" />
-            <element signature="e#157196#157386#2" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scss/_keyframes.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="261">
@@ -651,13 +632,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vechungtoi-chinhsachchatluong.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="65" column="20" lean-forward="true" selection-start-line="65" selection-start-column="20" selection-end-line="65" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vechungtoi-doitac.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="529">
@@ -665,15 +639,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/imgs/About/thanhtic/img4.png">
+    <entry file="file://$PROJECT_DIR$/imgs/About/thanhtich/img4.png">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vechungtoi-thanhtich.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="412">
-          <caret line="43" column="59" selection-start-line="43" selection-start-column="59" selection-end-line="43" selection-end-column="59" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/imgs/About/bandieuhanh/phamngocle.png">
       <provider selected="true" editor-type-id="images" />
@@ -689,13 +656,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/imgs/About/bandieuhanh/lamxuantuan.png">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="53" selection-start-line="1" selection-start-column="53" selection-end-line="1" selection-end-column="53" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vechungtoi-tongquan.php">
       <provider selected="true" editor-type-id="text-editor">
@@ -760,16 +720,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vechungtoi-congbothongtinevnspc.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nav-left.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="35" column="25" lean-forward="true" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vechungtoi-donvithanhvien.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -783,48 +733,88 @@
     <entry file="file://$PROJECT_DIR$/scss/_fonts.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="387">
-          <caret line="26" column="11" lean-forward="true" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
+          <caret line="26" column="11" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fixed1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vechungtoi-sodotochuc.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="44" column="30" lean-forward="true" selection-start-line="44" selection-start-column="30" selection-end-line="44" selection-end-column="30" />
+        <state relative-caret-position="216">
+          <caret line="42" column="38" lean-forward="true" selection-start-line="42" selection-start-column="38" selection-end-line="42" selection-end-column="38" />
           <folding>
             <element signature="e#753#3490#0#HTML" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/scss/_commons.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="47" column="3" selection-start-line="47" selection-start-column="3" selection-end-line="47" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="65" column="88" selection-start-line="65" selection-start-column="88" selection-end-line="65" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nav-left.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="38" column="27" selection-start-line="38" selection-start-column="27" selection-end-line="38" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vechungtoi-chinhsachchatluong.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="65" column="20" lean-forward="true" selection-start-line="65" selection-start-column="20" selection-end-line="65" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vechungtoi-thanhtich.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" column="59" selection-start-line="43" selection-start-column="59" selection-end-line="43" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vechungtoi-congbothongtinevnspc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-784" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vechungtoi-bandieuhanh.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="571">
+          <caret line="60" column="22" lean-forward="true" selection-start-line="60" selection-start-column="22" selection-end-line="60" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/scss/_about.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="157" column="3" lean-forward="true" selection-start-line="157" selection-start-column="3" selection-end-line="157" selection-end-column="3" />
+        <state relative-caret-position="267">
+          <caret line="86" column="31" lean-forward="true" selection-start-line="86" selection-start-column="31" selection-end-line="86" selection-end-column="31" />
           <folding>
             <element signature="e#2747#2765#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scss/_commons.scss">
+    <entry file="file://$PROJECT_DIR$/vechungtoi-quatrinhhinhthanhvaphattrien.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="605">
-          <caret line="69" column="41" selection-start-line="69" selection-start-column="41" selection-end-line="69" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vechungtoi-bandieuhanh.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="52" column="26" lean-forward="true" selection-start-line="52" selection-start-column="26" selection-end-line="52" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fixed1.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="51" selection-start-column="51" selection-end-column="51" />
+        <state relative-caret-position="472">
+          <caret line="62" column="65" selection-start-line="62" selection-start-column="65" selection-end-line="62" selection-end-column="65" />
         </state>
       </provider>
     </entry>

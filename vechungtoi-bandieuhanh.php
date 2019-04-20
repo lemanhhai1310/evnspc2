@@ -19,7 +19,7 @@
                 <li><span>Chính sách chất lượng</span></li>
             </ul>
             <h2 class="uk-text-uppercase title_common">ban điều hành</h2>
-            <div class="uk-flex-center uk-margin-large" uk-grid>
+            <div class="uk-flex-center uk-margin-large bot" uk-grid>
                 <div class="uk-width-auto">
                     <div class="box1_bdh">
                         <img src="imgs/About/bandieuhanh/nguyenvanhop.png" alt="">
@@ -37,7 +37,7 @@
                     </div>
                 </div>
             </div>
-            <div class="uk-flex-center uk-margin-large" uk-grid uk-height-match="target: > div > .box1_bdh">
+            <div class="uk-flex-center line1 uk-margin-large" uk-grid uk-height-match="target: > div > .box1_bdh">
                 <div class="uk-width-auto">
                     <div class="box1_bdh">
                         <img src="imgs/About/bandieuhanh/phamngocle.png" alt="">
