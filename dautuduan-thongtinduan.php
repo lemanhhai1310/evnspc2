@@ -39,7 +39,7 @@
                 </tbody>
             </table>
             <h5 class="title_dsgtda uk-text-capitalize">Danh sách gói thầu của dự án</h5>
-            <table class="uk-table uk-table-responsive uk-table-hover uk-table-divider table1_tq table1_dautu">
+            <table class="uk-table uk-margin-large-bottom uk-table-responsive uk-table-hover uk-table-divider table1_tq table1_dautu">
                 <thead>
                 <tr>
                     <th>Ngày gửi</th>
@@ -57,6 +57,10 @@
                 </tr>
                 </tbody>
             </table>
+            <div class="box_back">
+                <hr>
+                <a href="#" class="uk-link back1"><i class="fa fa-long-arrow-left" aria-hidden="true"></i> trở về danh sách</a>
+            </div>
             <div class="uk-section-xsmall"></div>
         </div>
         <div class="uk-width-1-4@m uk-flex-first@m">
