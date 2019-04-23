@@ -2,29 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0452858-05cf-451a-bf76-6a7452f6dca0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dautuduan-kehoachdauthau.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dautuduan-ketqualuachonnhathau.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dautuduan-thongbaomoithau.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dautuduan-thongtinduan.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nav-left-dautuduan.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/_dautu.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/block_top_trangcon.php" beforeDir="false" afterPath="$PROJECT_DIR$/block_top_trangcon.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/layout.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/layout.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/layout.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nav-left.php" beforeDir="false" afterPath="$PROJECT_DIR$/nav-left.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_about.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_about.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/layout.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/layout.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vechungtoi-bandieuhanh.php" beforeDir="false" afterPath="$PROJECT_DIR$/vechungtoi-bandieuhanh.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vechungtoi-chinhsachchatluong.php" beforeDir="false" afterPath="$PROJECT_DIR$/vechungtoi-chinhsachchatluong.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vechungtoi-congbothongtinevnspc.php" beforeDir="false" afterPath="$PROJECT_DIR$/vechungtoi-congbothongtinevnspc.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vechungtoi-doitac.php" beforeDir="false" afterPath="$PROJECT_DIR$/vechungtoi-doitac.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vechungtoi-donvithanhvien.php" beforeDir="false" afterPath="$PROJECT_DIR$/vechungtoi-donvithanhvien.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vechungtoi-quatrinhhinhthanhvaphattrien.php" beforeDir="false" afterPath="$PROJECT_DIR$/vechungtoi-quatrinhhinhthanhvaphattrien.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vechungtoi-sodotochuc.php" beforeDir="false" afterPath="$PROJECT_DIR$/vechungtoi-sodotochuc.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vechungtoi-thanhtich.php" beforeDir="false" afterPath="$PROJECT_DIR$/vechungtoi-thanhtich.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vechungtoi-tongquan.php" beforeDir="false" afterPath="$PROJECT_DIR$/vechungtoi-tongquan.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dautuduan-thongtinduan.php" beforeDir="false" afterPath="$PROJECT_DIR$/dautuduan-thongtinduan.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_dautu.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_dautu.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -73,8 +54,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/dautuduan-thongtinduan.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="291">
-                  <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+                <state relative-caret-position="215">
+                  <caret line="22" column="70" selection-start-line="22" selection-start-column="70" selection-end-line="22" selection-end-column="70" />
                 </state>
               </provider>
             </entry>
@@ -132,7 +113,7 @@
             <entry file="file://$PROJECT_DIR$/scss/_dautu.scss">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="345">
-                  <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+                  <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
                 </state>
               </provider>
             </entry>
@@ -408,7 +389,7 @@
       <workItem from="1555573783674" duration="9363000" />
       <workItem from="1555643813700" duration="12056000" />
       <workItem from="1555667897180" duration="13913000" />
-      <workItem from="1555964739825" duration="6007000" />
+      <workItem from="1555964739825" duration="6427000" />
     </task>
     <task id="LOCAL-00001" summary="Tạo project">
       <created>1554399808379</created>
@@ -463,13 +444,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="128605000" />
+    <option name="totallyTimeSpent" value="129025000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="823" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1874106" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1874106" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -482,7 +463,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32876712" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3174387" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.31737345" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -873,14 +854,14 @@
     <entry file="file://$PROJECT_DIR$/scss/_dautu.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
-          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+          <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dautuduan-thongtinduan.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+        <state relative-caret-position="215">
+          <caret line="22" column="70" selection-start-line="22" selection-start-column="70" selection-end-line="22" selection-end-column="70" />
         </state>
       </provider>
     </entry>

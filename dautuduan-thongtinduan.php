@@ -20,12 +20,21 @@
                 <li><a href="#">Kế hoạch đấu thầu</a></li>
                 <li><span>Thông tin dự án</span></li>
             </ul>
-            <h2 class="uk-text-uppercase title_common">thông tin dự án</h2>
-            <table class="uk-table">
+            <h2 class="uk-text-uppercase title_common uk-margin-medium-bottom">thông tin dự án</h2>
+            <table class="uk-table uk-table-small table2_ttda">
+                <caption>Mua sắm máy phát điện dự phòng 160kVA</caption>
                 <tbody>
                 <tr>
                     <td><b>Tên dự án:</b></td>
                     <td>Mua sắm máy phát điện dự phòng 160kVA</td>
+                </tr>
+                <tr>
+                    <td><b>Chủ đầu tư:</b></td>
+                    <td>Công Ty Điện Lực Vĩnh Long</td>
+                </tr>
+                <tr>
+                    <td><b>Bên mời thầu:</b></td>
+                    <td>Công Ty Điện Lực Vĩnh Long</td>
                 </tr>
                 </tbody>
             </table>

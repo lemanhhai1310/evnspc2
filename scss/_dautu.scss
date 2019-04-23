@@ -21,4 +21,24 @@
   font-family:'SanFranciscoText-Medium';
   color: #17479b;
   font-size: 14px;
+  margin: 0;
+}
+.table2_ttda{
+  caption{
+    color: #17479b;
+    font-family:'SanFranciscoText-Medium';
+    text-transform: uppercase;
+  }
+  tr{
+    td{
+      font-family:'SanFranciscoText-Regular';
+      &:first-child{
+        padding-left: 0;
+      }
+      b{
+        color: #000;
+        font-family:'SanFranciscoText-Medium';
+      }
+    }
+  }
 }
