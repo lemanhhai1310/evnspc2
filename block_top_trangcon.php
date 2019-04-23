@@ -1,7 +1,9 @@
 <div class="uk-card card1 uk-card-primary uk-grid-collapse uk-flex-middle uk-margin" uk-grid>
-    <div class="uk-flex-last@s uk-width-2-3@s uk-card-media-right uk-cover-container">
-        <img src="<?php echo $value['src']; ?>" alt="" uk-cover>
-        <canvas width="1105" height="500"></canvas>
+    <div class="uk-flex-last@s uk-width-3-5@s">
+        <div class="uk-card-media-right uk-cover-container">
+            <img src="<?php echo $value['src']; ?>" alt="" uk-cover>
+            <canvas width="1105" height="500"></canvas>
+        </div>
     </div>
     <div class="uk-width-expand@s">
         <div class="uk-card-body">

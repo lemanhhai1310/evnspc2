@@ -1,0 +1,24 @@
+.table1_dautu{
+  tr{
+    th{
+      background-color: #17479b;
+      color: #FFFFFF;
+      font-family:'SanFranciscoText-Medium';
+      vertical-align: middle;
+      &:last-child{
+
+      }
+    }
+    td{
+      font-family:'SanFranciscoText-Regular';
+      a{
+        color: #17479b;
+      }
+    }
+  }
+}
+.title_dsgtda{
+  font-family:'SanFranciscoText-Medium';
+  color: #17479b;
+  font-size: 14px;
+}

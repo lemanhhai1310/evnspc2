@@ -1,4 +1,4 @@
-<ul class="uk-nav-default uk-nav-parent-icon nav-sidebar" uk-nav  uk-sticky="offset: 100">
+<ul class="uk-nav-default uk-nav-parent-icon nav-sidebar" uk-nav>
     <?php
     $nav = array
     (

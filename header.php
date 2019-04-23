@@ -114,7 +114,7 @@ $activePage = basename($_SERVER['PHP_SELF'], ".php");
                                 <li>
                                     <a href="#">Đấu thầu</a>
                                     <ul class="uk-nav uk-navbar-dropdown-nav" uk-dropdown="pos: right-top; animation: uk-animation-slide-bottom-small; duration: 300">
-                                        <li><a href="#">Kế hoạch đấu thầu</a></li>
+                                        <li><a href="dautuduan-kehoachdauthau.php">Kế hoạch đấu thầu</a></li>
                                         <li><a href="#">Thông báo mời thầu</a></li>
                                         <li><a href="#">Kết quả lựa chọn nhà thầu</a></li>
                                     </ul>

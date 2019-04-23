@@ -163,7 +163,7 @@
             <div class="uk-section-xsmall"></div>
         </div>
         <div class="uk-width-1-4@m uk-flex-first@m">
-            <aside>
+            <aside uk-sticky="offset: 100; bottom: true;">
                 <h3 class="title_aside uk-text-uppercase uk-margin-small">chuyên mục</h3>
                 <?php include('nav-left.php'); ?>
             </aside>
