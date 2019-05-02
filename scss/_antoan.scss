@@ -10,6 +10,17 @@
   margin: 0 auto;
   max-width: 800px;
   width: 100%;
+  position: relative;
+  &:before{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: inline-block;
+    background: url("../imgs/antoan&tietkiemdien/quote.png") no-repeat;
+    width: 32px;
+    height: 21px;
+  }
 }
 .title2{
   text-transform: uppercase;
@@ -32,6 +43,15 @@
     font-size: 16px;
     a{
       color: #333333;
+    }
+  }
+}
+.article_at{
+  figure{
+    figcaption{
+      small{
+        font-style: italic;
+      }
     }
   }
 }

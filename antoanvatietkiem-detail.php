@@ -20,7 +20,7 @@
                 <li><span>Điện Áp Mái</span></li>
             </ul>
             <h2 class="uk-text-uppercase title_common uk-margin-medium-bottom">Giải phát tiết kiệm từ hệ thống điện Mặt trời</h2>
-            <article>
+            <article class="article_at">
                 <figure>
                     <img src="imgs/antoan&tietkiemdien/img1.png" alt="">
                 </figure>
@@ -31,7 +31,6 @@
                 <p>Cụ thể, trước khi gắn hệ thống NLMT, công ty phải trả tiền điện hơn 80 triệu đồng/tháng. Sau khi gắn hệ thống NLMT, tiền điện phải trả chỉ còn khoảng 60 triệu đồng/tháng. “Với số tiền tiết kiệm được, ước tính 7 năm sau sẽ thu hồi lại vốn đầu tư”, đại diện Công ty Điện lực Phú Thọ cho biết.</p>
                 <p>Điều đáng nói là chi phí trên còn chưa tính đến sản lượng điện dư bán lên lưới trung bình 548 kWh/tháng. Theo Công ty Điện lực Phú Thọ, đơn vị sẽ ghi nhận chỉ số này hàng tháng để chờ khi có hướng dẫn của Bộ Tài chính và Bộ Công Thương, công ty sẽ được quyết toán toàn bộ sản lượng điện bán lên lưới trong năm.</p>
                 <p class="quote1 uk-position-relative">
-                    <span class="uk-position-top-left" uk-icon="icon: quote-right; ratio: 2"></span>
                     Theo thống kê, TPHCM nằm trong khu vực có nguồn bức xạ mặt trời mạnh. Số giờ nắng trung bình là 6,8 giờ/ngày và liên tục gần như trong suốt cả năm nên tiềm năng phát triển và ứng dụng năng lượng mặt trời để phát điện là rất lớn.
                 </p>
                 <h5 class="title_article1">Thời điểm thích hợp</h5>
