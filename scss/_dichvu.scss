@@ -1,0 +1,34 @@
+.hoidap{
+  li{
+    border: 1px solid #6F6F6F;
+    &:nth-child(n+2){
+      margin: 0;
+      margin-top: -1px;
+    }
+    .uk-accordion-title{
+      color: #17479b;
+      font-family:'SanFranciscoText-Medium';
+      font-size: 14px;
+      padding: 15px 20px;
+    }
+    .uk-accordion-content{
+      margin: 0;
+      padding: 15px 20px;
+      font-family:'SanFranciscoText-Regular';
+    }
+    &.uk-open{
+      .uk-accordion-title{
+        background-color: #17479b;
+        color: #FFFFFF;
+      }
+    }
+  }
+}
+.name_hd{
+  margin: 0;
+  font-family:'SanFranciscoText-Regular';
+  color: #333333;
+}
+.time2{
+  color: #6f6f6f;
+}
