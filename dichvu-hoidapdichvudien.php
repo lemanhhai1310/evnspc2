@@ -5,7 +5,7 @@
     (
         array(
             'title' => 'dịch vụ',
-            'src' => 'imgs/banner_trangcon/dautuduan-kehoachdauthau.png',
+            'src' => 'imgs/banner_trangcon/dichvu-hoidapdichvudien.png',
         )
     );
     foreach ($cars as $key => $value) { ?>

@@ -175,8 +175,8 @@ $activePage = basename($_SERVER['PHP_SELF'], ".php");
                         <a href="#">liên hệ</a>
                         <div class="uk-navbar-dropdown uk-margin-remove uk-padding-remove" uk-dropdown="animation: uk-animation-slide-bottom-small; duration: 300">
                             <ul class="uk-nav uk-navbar-dropdown-nav">
-                                <li><a href="#">Liên hệ EVNSPC</a></li>
-                                <li><a href="#">Liên kết nội bộ</a></li>
+                                <li><a href="lienhe-evnspc.php">Liên hệ EVNSPC</a></li>
+                                <li><a href="lienhe-lienketnoibo.php">Liên kết nội bộ</a></li>
                             </ul>
                         </div>
                     </li>

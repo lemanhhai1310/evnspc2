@@ -18,9 +18,9 @@
             'active' => '',
             'sub' => array(
                 array(
-                    'href' => '',
+                    'href' => 'dichvu-bieugiadien.php',
                     'title' => 'biểu giá điện',
-                    'active-sub' => '',
+                    'active-sub' => 'dichvu-bieugiadien',
                 ),
                 array(
                     'href' => '',
