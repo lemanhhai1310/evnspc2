@@ -7,4 +7,68 @@
       color: #333333;
     }
   }
+  .uk-position-center{
+    img{
+      transform: scale(0.8);
+    }
+  }
+}
+.view1{
+  li{
+    font-size: 14px;
+  }
+}
+.list1{
+  li{
+    a{
+      color: #17479b;
+    }
+    small{
+      color: #333333;
+      i.fa{
+
+      }
+    }
+  }
+}
+.author_tacgia{
+  span{
+    font-family:'SanFranciscoText-Medium';
+  }
+  div{
+
+  }
+}
+.danhgiabaiviet{
+  .txt1{
+    font-family:'SanFranciscoText-Medium';
+    color: #6f6f6f;
+    font-size: 15px;
+  }
+  i.fa{
+    font-size: 15px;
+    &.fa-star{
+      color: #FFC800;
+    }
+    &.fa-star-o{
+      color: #D2D2D2;
+    }
+  }
+}
+.title1_news{
+  font-family:'SanFranciscoDisplay-Bold';
+  font-size: 16px;
+}
+.btn1_tag{
+  border-radius: 5px;
+  background-color: #E4E4E4;
+  border-color: #E4E4E4;
+  text-transform: inherit;
+  color: #6f6f6f;
+  line-height: 28px;
+  padding: 0 10px;
+  &.uk-active{
+    background-color: #B9BBBD;
+    border-color: #B9BBBD;
+  }
 }

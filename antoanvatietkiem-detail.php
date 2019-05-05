@@ -19,8 +19,12 @@
                 <li><a href="#">Năng Lượng Xanh</a></li>
                 <li><span>Điện Áp Mái</span></li>
             </ul>
-            <h2 class="uk-text-uppercase title_common uk-margin-medium-bottom">Giải phát tiết kiệm từ hệ thống điện Mặt trời</h2>
-            <article class="article_at">
+            <h2 class="uk-text-uppercase title_common uk-margin-small-bottom">Giải phát tiết kiệm từ hệ thống điện Mặt trời</h2>
+            <ul class="uk-grid-small uk-child-width-auto view1" uk-grid>
+                <li><i class="fa fa-clock-o" aria-hidden="true"></i> 15:52 - 02/05/2019</li>
+                <li><i class="fa fa-eye" aria-hidden="true"></i> 100</li>
+            </ul>
+            <article class="article_at uk-margin">
                 <figure>
                     <img src="imgs/antoan&tietkiemdien/img1.png" alt="">
                 </figure>
@@ -57,7 +61,7 @@
                 <h5 class="title_article1">Làm thế nào để lắp đặt hệ thống điện áp mái tại Việt Nam?</h5>
                 <div class="uk-panel">
                     <figure class="uk-align-left uk-width-1-2@m uk-margin-remove-adjacent">
-                        <img src="imgs/antoan&tietkiemdien/img3.png" alt="Example image">
+                        <img src="imgs/antoan&tietkiemdien/img3.png" alt="">
                         <figcaption><small>Hình 1 – Năng lượng mặt trời sẽ là bước chuyển đổi mới của nhân loại.</small></figcaption>
                     </figure>
                     <p>Hiện tại, Thông tư 16/2017/TT-BCT đang sử dụng đơn vị MW cho việc bổ sung quy hoạch và cấp giấy phép hoạt động điện lực. Đồng thời, ban hành tiêu chuẩn kỹ thuật và quy trình đấu nối điện mặt trời trên mái nhà thống nhất chung cho cả nước cũng như ban hành quy định về chi phí kiểm tra, thử nghiệm yêu cầu kỹ thuật nối lưới và danh sách các đơn vị có thể thực hiện công tác này bên cạnh các đơn vị điện lực.</p>
@@ -65,8 +69,100 @@
                     <p>EVNHCMC cho biết, khi có nhu cầu lắp đặt hệ thống điện mặt trời, khách hàng có thể liên hệ với các nhà cung cấp sản phẩm để được tư vấn công suất lắp đặt tấm pin mặt trời phù hợp với nhu cầu sử dụng. Khi hoàn tất việc lắp đặt, khách hàng thông báo nhu cầu bán lại lượng điện dư cho ngành Điện bằng cách liên hệ trực tiếp với các công ty điện lực khu vực hoặc qua tổng đài của Trung tâm Chăm sóc khách hàng (1900545454) để được hướng dẫn.</p>
                 </div>
             </article>
+            <div class="uk-flex uk-flex-middle uk-flex-between uk-margin">
+                <div class="fb-like" data-href="https://developers.facebook.com/docs/plugins/" data-width="" data-layout="button_count" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
+                <div class="danhgiabaiviet">
+                    <span class="txt1 uk-margin-small-right">Đánh giá bài viết</span>
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                    <i class="fa fa-star-o" aria-hidden="true"></i>
+                    <i class="fa fa-star-o" aria-hidden="true"></i>
+                </div>
+            </div>
+            <div class="uk-text-right author_tacgia">
+                <span>Tên Tác giả</span>
+                <div>- ĐƠN VỊ CÔNG TÁC CỦA TÁC GIẢ HOẶC NGUỒN</div>
+            </div>
+            <h3 class="title2">theo dòng sự kiện</h3>
+            <h6 class="title1_news">Giải pháp tiết kiệm điện từ hệ thống điện Mặt trời</h6>
+            <a href="#" class="uk-button uk-button-default btn1_tag uk-active">#tiết kiệm điện</a>
+            <a href="#" class="uk-button uk-button-default btn1_tag">#giải pháp tiết kiệm điện</a>
+            <a href="#" class="uk-button uk-button-default btn1_tag">#dry mode</a>
+            <ul class="uk-list list1">
+                <?php
+                $cars = array
+                (
+                    array(
+                        'title' => 'Các tin bài tương tự cùng chủ đề của cùng bài viết trên sẽ thể hiện ở đây.',
+                        'time' => '15:52 - 02/05/2019',
+                    ),
+                    array(
+                        'title' => 'Những khó khăn trong việc sử dụng năng lượng mặt trời ở Việt Nam',
+                        'time' => '15:52 - 02/05/2019',
+                    ),
+                    array(
+                        'title' => 'Các tin bài tương tự cùng chủ đề của cùng bài viết trên sẽ thể hiện ở đây.',
+                        'time' => '15:52 - 02/05/2019',
+                    ),
+                    array(
+                        'title' => 'Những khó khăn trong việc sử dụng năng lượng mặt trời ở Việt Nam',
+                        'time' => '15:52 - 02/05/2019',
+                    ),
+                    array(
+                        'title' => 'Các tin bài tương tự cùng chủ đề của cùng bài viết trên sẽ thể hiện ở đây.',
+                        'time' => '15:52 - 02/05/2019',
+                    ),
+                );
+                foreach ($cars as $key => $value) { ?>
+                <li>
+                    <a href="#" title=""><?= $value['title']; ?></a>
+                    <small><i class="fa fa-clock-o" aria-hidden="true"></i> <?= $value['time']; ?></small>
+                </li>
+                <?php } ?>
+            </ul>
             <h3 class="title2">Bài viết liên quan</h3>
-            <div class="uk-grid-medium uk-child-width-1-2@m" uk-grid>
+            <div class="uk-grid-medium uk-child-width-1-3@m" uk-grid>
+                <div>
+                    <div class="box1_antoan">
+                        <div class="uk-cover-container">
+                            <img src="imgs/antoan&tietkiemdien/bv1.png" alt="" uk-cover>
+                            <canvas width="554" height="340"></canvas>
+                            <a href="#"><span class="uk-position-center" uk-icon="icon: play-circle; ratio: 2"></span></a>
+                        </div>
+                        <h4 class="title1_at"><a href="#">Miền Nam đẩy mạnh tiết kiệm điện với công nghệ mới</a></h4>
+                    </div>
+                </div>
+                <div>
+                    <div class="box1_antoan">
+                        <div class="uk-cover-container">
+                            <img src="imgs/antoan&tietkiemdien/bv2.png" alt="" uk-cover>
+                            <canvas width="554" height="340"></canvas>
+                            <a href="#"><span class="uk-position-center" uk-icon="icon: play-circle; ratio: 2"></span></a>
+                        </div>
+                        <h4 class="title1_at"><a href="#">Năng lượng sạch cho phát triển bền vững</a></h4>
+                    </div>
+                </div>
+                <div>
+                    <div class="box1_antoan">
+                        <div class="uk-cover-container">
+                            <img src="imgs/antoan&tietkiemdien/bv1.png" alt="" uk-cover>
+                            <canvas width="554" height="340"></canvas>
+                            <a href="#"><span class="uk-position-center" uk-icon="icon: play-circle; ratio: 2"></span></a>
+                        </div>
+                        <h4 class="title1_at"><a href="#">Miền Nam đẩy mạnh tiết kiệm điện với công nghệ mới</a></h4>
+                    </div>
+                </div>
+                <div>
+                    <div class="box1_antoan">
+                        <div class="uk-cover-container">
+                            <img src="imgs/antoan&tietkiemdien/bv2.png" alt="" uk-cover>
+                            <canvas width="554" height="340"></canvas>
+                            <a href="#"><span class="uk-position-center" uk-icon="icon: play-circle; ratio: 2"></span></a>
+                        </div>
+                        <h4 class="title1_at"><a href="#">Năng lượng sạch cho phát triển bền vững</a></h4>
+                    </div>
+                </div>
                 <div>
                     <div class="box1_antoan">
                         <div class="uk-cover-container">

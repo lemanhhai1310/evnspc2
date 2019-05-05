@@ -33,9 +33,9 @@
             'active' => 'tintuctruyenthong-thuvienanh',
         ),
         array(
-            'href' => '',
+            'href' => 'tintuctruyenthong-thuvienvideo.php',
             'title' => 'Thư viện Video',
-            'active' => '',
+            'active' => 'tintuctruyenthong-thuvienvideo',
         ),
     );
     foreach ($nav as $key => $value) { ?>
