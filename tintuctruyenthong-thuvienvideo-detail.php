@@ -16,62 +16,20 @@
             <ul class="uk-breadcrumb">
                 <li><a href="#">Trang chủ</a></li>
                 <li><a href="#">Tin tức & Truyền thông</a></li>
-                <li><span>Thư viện ảnh</span></li>
+                <li><span>Thư viện video</span></li>
             </ul>
-            <h2 class="uk-text-uppercase title_common uk-margin-medium-bottom">Thư viện ảnh</h2>
-            <div uk-grid>
-                <div class="uk-width-1-3@s">
-                    <div class="uk-width-1-1" uk-form-custom="target: > * > span:first-child">
-                        <select>
-                            <option value="">Tất cả lĩnh vực</option>
-                            <option value="1">Option 01</option>
-                            <option value="2">Option 02</option>
-                            <option value="3">Option 03</option>
-                            <option value="4">Option 04</option>
-                        </select>
-                        <button class="uk-button btn1 uk-button-default uk-width-1-1 uk-text-left" style="background-color: #fff;" type="button" tabindex="-1">
-                            <span></span>
-                            <span class="uk-position-center-right" uk-icon="icon: chevron-down"></span>
-                        </button>
-                    </div>
-                </div>
+            <h2 class="uk-text-uppercase title_common uk-margin">Thư viện video</h2>
+            <iframe width="100%" height="550" src="https://www.youtube.com/embed/aGgrF78zPEE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <div class="tvha_detail uk-margin">
+                <h4 class="title_tvha">Tiềm năng từ mô hình năng lượng mặt trời Côn Đảo</h4>
+                <p>Côn Đảo hiện vẫn chưa có điện lưới quốc gia và vẫn phải sử dụng điện máy nổ. Tuy nhiên, một phương án khả dĩ đã được tìm ra chính là năng lượng mặt trời. Tuy chưa thể thay thế hoàn toàn điện máy nổ nhưng sự thành công của dự án thí điểm đã mở ra hướng cấp điện cho Côn Đảo nói riêng và các vùng biển đảo nói chung.</p>
+                <p>Mặc dù chi phí đầu tư ban đầu cao nhưng Tổng Công ty Điện lực miền Nam vẫn quyết định đầu tư vì thành công của dự án thí điểm về điện năng lượng mặt trời được triển khai trước đó.</p>
             </div>
+            <h3 class="title2">ALBUM HÌNH ẢNH LIÊN QUAN</h3>
             <div class="uk-grid-medium uk-child-width-1-2@m" uk-grid>
                 <?php
                 $cars = array
                 (
-                    array(
-                        'title' => 'Khánh thành, bàn giao Trường Mẫu giáo Sao Mai, tại huyện Đông Hải, Bạc Liêu do EVN SPC tài trợ',
-                        'src' => 'imgs/thuvienanh/img1.png',
-                    ),
-                    array(
-                        'title' => '“Trại hè Thanh Đa - 40 mùa hoa”',
-                        'src' => 'imgs/thuvienanh/img2.png',
-                    ),
-                    array(
-                        'title' => 'Hội thi thợ giỏi cấp EVN SPC',
-                        'src' => 'imgs/thuvienanh/img3.png',
-                    ),
-                    array(
-                        'title' => 'Hội thi “Nét đẹp phụ nữ ngành Điện” EVN SPC',
-                        'src' => 'imgs/thuvienanh/img4.png',
-                    ),
-                    array(
-                        'title' => 'Hội Thao EVNSPC',
-                        'src' => 'imgs/thuvienanh/img5.png',
-                    ),
-                    array(
-                        'title' => 'Hội nghị Người lao động',
-                        'src' => 'imgs/thuvienanh/img6.png',
-                    ),
-                    array(
-                        'title' => 'Ngày hội gia đình EVN SPC',
-                        'src' => 'imgs/thuvienanh/img7.png',
-                    ),
-                    array(
-                        'title' => 'Lênh đênh giữa lũ đầu nguồn, căng mình giữ đường dây điện',
-                        'src' => 'imgs/thuvienanh/img8.png',
-                    ),
                     array(
                         'title' => 'EVN SPC ra mắt đội Hotline',
                         'src' => 'imgs/thuvienanh/img9.png',

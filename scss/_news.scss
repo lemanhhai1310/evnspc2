@@ -13,6 +13,39 @@
     }
   }
 }
+#sync1{
+  .owl-nav{
+    button{
+      width: 45px;
+      height: 45px;
+      border-radius: 50%;
+      border: 1px solid #fff;
+      position: absolute;
+      top: calc((100% - 47px)/2);
+      background: rgba(255, 255, 255, 0.3);
+      color: #ffffff;
+      &:focus{
+        outline: none;
+      }
+      &.owl-prev{
+        left: 10px;
+      }
+      &.owl-next{
+        right: 10px;
+      }
+    }
+  }
+}
+.tvha_detail{
+  h4{
+    font-family:'SanFranciscoText-Medium';
+    font-size: 20px;
+    color: #333333;
+  }
+  p{
+
+  }
+}
 .view1{
   li{
     font-size: 14px;
