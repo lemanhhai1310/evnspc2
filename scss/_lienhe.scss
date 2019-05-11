@@ -4,3 +4,11 @@
     font-size: 16px;
   }
 }
+.table3{
+  tr{
+    &:hover{
+      background: #F0F4FB !important;
+
+    }
+  }
+}
