@@ -1,0 +1,59 @@
+.sitemap{
+  li{
+    position: relative;
+    &:before{
+      content: '';
+      width: 19px;
+      height: 100%;
+      display: inline-block;
+      position: absolute;
+      top: 10px;
+      left: -4px;
+      background: url("../imgs/WebResource.gif") repeat-y;
+    }
+    &:after{
+      content: '';
+      transform: rotate(90deg);
+      width: 19px;
+      height: 5px;
+      position: absolute;
+      top: 8px;
+      left: 0;
+      display: inline-block;
+      background: url("../imgs/WebResource.gif") repeat-y;
+    }
+    &:last-child{
+      &:before{
+        display: none;
+      }
+    }
+    a{
+      color: #000 !important;
+      padding-left: 20px;
+    }
+  }
+  &.uk-nav-parent-icon{
+    >.uk-parent{
+      &.uk-open{
+        >a{
+          &:after{
+            content: "\f147";
+          }
+        }
+      }
+      >a{
+        position: relative;
+        &:after{
+          background-image: none;
+          content: "\f196";
+          font-family: FontAwesome;
+          position: absolute;
+          top: 6px;
+          left: 0;
+          background-color: #fff;
+          z-index: 100;
+        }
+      }
+    }
+  }
+}

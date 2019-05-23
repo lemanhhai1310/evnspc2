@@ -109,3 +109,19 @@
   font-size: 14px;
   font-family:'SanFranciscoText-Medium';
 }
+.bieugiadien{
+  li{
+    &.uk-active{
+      a{
+        background: #17479B !important;
+        color: #FFFFFF !important;
+      }
+    }
+    a{
+      font-family:'SanFranciscoText-Medium';
+      color: #17479b !important;
+      background: #F0F4FB !important;
+      padding: 15px !important;
+    }
+  }
+}

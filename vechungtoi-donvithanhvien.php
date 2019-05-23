@@ -77,6 +77,61 @@
                     </div>
                 </li>
             </ul>
+            <ul class="box2_tq" uk-accordion>
+                <li class="uk-open">
+                    <a class="uk-accordion-title uk-text-uppercase uk-text-center" href="#">ĐƠN VỊ PHỤ TRỢ</a>
+                    <div class="uk-accordion-content uk-margin-remove">
+                        <table class="uk-table uk-table-hover uk-table-divider table1_tq">
+                            <tbody>
+                            <tr>
+                                <td>Công ty điện lực An Giang</td>
+                                <td>Công ty điện lực Hậu Giang</td>
+                            </tr>
+                            <tr>
+                                <td>Công ty điện lực Bạc Liêu</td>
+                                <td>Công ty điện lực Kiên Giang</td>
+                            </tr>
+                            <tr>
+                                <td>Công ty điện lực Bà Rịa Vũng Tàu</td>
+                                <td>Công ty điện lựcTiền Giang</td>
+                            </tr>
+                            <tr>
+                                <td>Công ty điện lực Bến Tre</td>
+                                <td>Công ty điện lực Trà Vinh</td>
+                            </tr>
+                            <tr>
+                                <td>Công ty điện lực Bình Dương</td>
+                                <td>Công ty điện lực Vĩnh Long</td>
+                            </tr>
+                            <tr>
+                                <td>Công ty điện lực Bình Phước</td>
+                                <td>Công ty điện lực Cần Thơ</td>
+                            </tr>
+                            <tr>
+                                <td>Công ty điện lực Lâm Đồng</td>
+                                <td>Công ty điện lực Sóc Trăng</td>
+                            </tr>
+                            <tr>
+                                <td>Công ty điện lực Tây Ninh</td>
+                                <td>Công ty điện lực Cà Mau</td>
+                            </tr>
+                            <tr>
+                                <td>Công ty điện lực Đồng Nai</td>
+                                <td>Công ty điện lực Ninh Thuận</td>
+                            </tr>
+                            <tr>
+                                <td>Công ty điện lực Long An</td>
+                                <td>Công ty điện lực Bình Thuận</td>
+                            </tr>
+                            <tr>
+                                <td>Công ty điện lực Đồng Tháp</td>
+                                <td></td>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </li>
+            </ul>
             <div class="uk-section-xsmall"></div>
         </div>
         <div class="uk-width-1-4@m uk-flex-first@m">

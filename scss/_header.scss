@@ -130,3 +130,21 @@
     min-height: 150px;
   }
 }
+.top_header{
+  background: rgba(111, 111, 111, 0.1);
+  .uk-navbar-nav{
+    >li{
+      >a{
+        color: #AFAFAF;
+        min-height: 34px;
+        text-transform: inherit;
+        font-family:'SanFranciscoDisplay-Regular';
+      }
+      &:last-child{
+        >a{
+          padding-right: 0;
+        }
+      }
+    }
+  }
+}

@@ -11,7 +11,7 @@
     foreach ($cars as $key => $value) { ?>
         <?php include('block_top_trangcon.php'); ?>
     <?php } ?>
-    <div class="uk-grid-divider common" uk-grid>
+    <div class="uk-grid-divider common bandieuhanh" uk-grid>
         <div class="uk-width-expand@m">
             <ul class="uk-breadcrumb">
                 <li><a href="#">Trang chủ</a></li>
@@ -37,22 +37,36 @@
                     </div>
                 </div>
             </div>
-            <div class="uk-flex-center line1 uk-margin-large" uk-grid uk-height-match="target: > div > .box1_bdh">
-                <div class="uk-width-auto">
+            <div class="uk-flex-center ptgd uk-child-width-1-5@m line1 uk-margin-large uk-grid-small" uk-grid uk-height-match="target: > div > .box1_bdh">
+                <div>
                     <div class="box1_bdh">
                         <img src="imgs/About/bandieuhanh/phamngocle.png" alt="">
                         <h3 class="title uk-text-uppercase">PHẠM NGỌC LỄ</h3>
                         <small>Phó Tổng Giám Đốc Đầu Tư Xây Dựng</small>
                     </div>
                 </div>
-                <div class="uk-width-auto">
+                <div>
                     <div class="box1_bdh">
                         <img src="imgs/About/bandieuhanh/lamxuantuan.png" alt="">
                         <h3 class="title uk-text-uppercase">LÂM XUÂN TUẤN</h3>
                         <small>Phó Tổng Giám Đốc Kỹ Thuật Sản Xuất</small>
                     </div>
                 </div>
-                <div class="uk-width-auto">
+                <div>
+                    <div class="box1_bdh">
+                        <img src="imgs/About/bandieuhanh/nguyenconghau.png" alt="">
+                        <h3 class="title uk-text-uppercase">NGUYỄN CÔNG HẦU</h3>
+                        <small>Phó Tổng Giám Đốc CNTT</small>
+                    </div>
+                </div>
+                <div>
+                    <div class="box1_bdh">
+                        <img src="imgs/About/bandieuhanh/lamxuantuan.png" alt="">
+                        <h3 class="title uk-text-uppercase">LÂM XUÂN TUẤN</h3>
+                        <small>Phó Tổng Giám Đốc Kỹ Thuật Sản Xuất</small>
+                    </div>
+                </div>
+                <div>
                     <div class="box1_bdh">
                         <img src="imgs/About/bandieuhanh/nguyenconghau.png" alt="">
                         <h3 class="title uk-text-uppercase">NGUYỄN CÔNG HẦU</h3>

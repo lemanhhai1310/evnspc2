@@ -48,6 +48,21 @@ $activePage = basename($_SERVER['PHP_SELF'], ".php");
      theme_color="#24892d">
 </div>
 <section id="root" class="uk-height-viewport uk-offcanvas-content">
+<div class="top_header uk-visible@m">
+    <div class="uk-container uk-container-large">
+        <nav class="uk-navbar-container uk-navbar-transparent" uk-navbar>
+            <div class="uk-navbar-right">
+
+                <ul class="uk-navbar-nav">
+                    <li><a href="#">Trang chủ</a></li>
+                    <li><a href="#">Site Map</a></li>
+                    <li><a href="#">Hỗ trợ trực tuyến 24/7: 19001006 - 19009000</a></li>
+                </ul>
+
+            </div>
+        </nav>
+    </div>
+</div>
 <header id="header" class="uk-position-z-index uk-width-1-1 uk-active" uk-sticky>
     <div class="uk-container uk-container-large">
         <nav class="uk-navbar-container uk-navbar-transparent uk-navbar uk-flex-between" uk-navbar>
