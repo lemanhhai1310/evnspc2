@@ -74,7 +74,7 @@
                 </div>
                 <?php } ?>
             </div>
-            <div class="uk-grid-medium sdtc1 uk-child-width-1-3@m uk-margin-large" uk-grid>
+            <div class="uk-grid-small sdtc1 x1 uk-child-width-expand@l uk-margin-large uk-grid-match" uk-grid>
                 <?php
                 $cars = array
                 (
@@ -96,13 +96,13 @@
                 );
                 foreach ($cars as $key => $value) { ?>
                 <div>
-                    <div class="uk-card card3 uk-card-default uk-card-body">
+                    <div class="uk-card card3 uk-card-default uk-padding-small uk-card-body">
                         <h3 class="uk-card-title uk-text-uppercase"><?php echo $value; ?></h3>
                     </div>
                 </div>
                 <?php } ?>
             </div>
-            <div class="uk-grid-medium sdtc1 c2 uk-child-width-1-2@m uk-margin-large" uk-grid>
+            <div class="sdtc1 c2 uk-child-width-expand@l uk-margin-large uk-grid-small uk-grid-match" uk-grid>
                 <?php
                 $cars = array
                 (
@@ -119,7 +119,7 @@
                 );
                 foreach ($cars as $key => $value) { ?>
                     <div>
-                        <div class="uk-card card3 c1 uk-card-default uk-card-body">
+                        <div class="uk-card card3 c1 uk-card-default uk-padding-small uk-card-body">
                             <h3 class="uk-card-title uk-text-uppercase"><?php echo $value; ?></h3>
                         </div>
                     </div>
