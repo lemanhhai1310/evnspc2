@@ -1,4 +1,5 @@
 <?php include('header.php'); ?>
+<?php include('block-ads.php'); ?>
 <div id="slider_home" class="uk-position-relative uk-visible-toggle" tabindex="-1" uk-slideshow="animation: push; min-height: 450; autoplay: true; pause-on-hover: true;">
 
     <ul class="uk-slideshow-items" uk-height-viewport="offset-top: true">

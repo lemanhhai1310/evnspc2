@@ -29,47 +29,236 @@
                         <table class="uk-table uk-table-hover uk-table-divider table1_tq">
                             <tbody>
                             <tr>
-                                <td>Công ty điện lực An Giang</td>
-                                <td>Công ty điện lực Hậu Giang</td>
+                                <td>
+                                    <div uk-grid>
+                                        <div class="uk-width-expand">
+                                            Công ty điện lực An Giang        
+                                        </div>
+                                        <div class="uk-width-1-3@m">
+                                            <img src="imgs/logo-cty/ANGIANG.png" alt="">
+                                        </div>
+                                    </div>
+                                </td>
+                                <td>
+                                    <div uk-grid>
+                                        <div class="uk-width-expand">
+                                            Công ty điện lực Hậu Giang
+                                        </div>
+                                        <div class="uk-width-1-3@m">
+                                            <img src="imgs/logo-cty/HAUGIANG.png" alt="">
+                                        </div>
+                                    </div>
+                                </td>
                             </tr>
                             <tr>
-                                <td>Công ty điện lực Bạc Liêu</td>
-                                <td>Công ty điện lực Kiên Giang</td>
+                                <td>
+                                    <div uk-grid>
+                                        <div class="uk-width-expand">
+                                            Công ty điện lực Bạc Liêu
+                                        </div>
+                                        <div class="uk-width-1-3@m">
+                                            <img src="imgs/logo-cty/BACLIEU.png" alt="">
+                                        </div>
+                                    </div>
+                                </td>
+                                <td>
+                                    <div uk-grid>
+                                        <div class="uk-width-expand">
+                                            Công ty điện lực Kiên Giang
+                                        </div>
+                                        <div class="uk-width-1-3@m">
+                                            <img src="imgs/logo-cty/KIENGIANG.png" alt="">
+                                        </div>
+                                    </div>
+                                </td>
                             </tr>
                             <tr>
-                                <td>Công ty điện lực Bà Rịa Vũng Tàu</td>
-                                <td>Công ty điện lựcTiền Giang</td>
+                                <td>
+                                    <div uk-grid>
+                                        <div class="uk-width-expand">
+                                            Công ty điện lực Bà Rịa Vũng Tàu
+                                        </div>
+                                        <div class="uk-width-1-3@m">
+                                            <img src="imgs/logo-cty/BRVT.png" alt="">
+                                        </div>
+                                    </div>
+                                </td>
+                                <td>
+                                    <div uk-grid>
+                                        <div class="uk-width-expand">
+                                            Công ty điện lực Tiền Giang
+                                        </div>
+                                        <div class="uk-width-1-3@m">
+                                            <img src="imgs/logo-cty/TIENGIANG.png" alt="">
+                                        </div>
+                                    </div>
+                                </td>
                             </tr>
                             <tr>
-                                <td>Công ty điện lực Bến Tre</td>
-                                <td>Công ty điện lực Trà Vinh</td>
+                                <td>
+                                    <div uk-grid>
+                                        <div class="uk-width-expand">
+                                            Công ty điện lực Bến Tre
+                                        </div>
+                                        <div class="uk-width-1-3@m">
+                                            <img src="imgs/logo-cty/BENTRE.png" alt="">
+                                        </div>
+                                    </div>
+                                </td>
+                                <td>
+                                    <div uk-grid>
+                                        <div class="uk-width-expand">
+                                            Công ty điện lực Trà Vinh
+                                        </div>
+                                        <div class="uk-width-1-3@m">
+                                            <img src="imgs/logo-cty/TRAVINH.png" alt="">
+                                        </div>
+                                    </div>
+                                </td>
                             </tr>
                             <tr>
-                                <td>Công ty điện lực Bình Dương</td>
-                                <td>Công ty điện lực Vĩnh Long</td>
+                                <td>
+                                    <div uk-grid>
+                                        <div class="uk-width-expand">
+                                            Công ty điện lực Bình Dương
+                                        </div>
+                                        <div class="uk-width-1-3@m">
+                                            <img src="imgs/logo-cty/BINHDUONG.png" alt="">
+                                        </div>
+                                    </div>
+                                </td>
+                                <td>
+                                    <div uk-grid>
+                                        <div class="uk-width-expand">
+                                            Công ty điện lực Vĩnh Long
+                                        </div>
+                                        <div class="uk-width-1-3@m">
+                                            <img src="imgs/logo-cty/VINHLONG.png" alt="">
+                                        </div>
+                                    </div>
+                                </td>
                             </tr>
                             <tr>
-                                <td>Công ty điện lực Bình Phước</td>
-                                <td>Công ty điện lực Cần Thơ</td>
+                                <td>
+                                    <div uk-grid>
+                                        <div class="uk-width-expand">
+                                            Công ty điện lực Bình Phước
+                                        </div>
+                                        <div class="uk-width-1-3@m">
+                                            <img src="imgs/logo-cty/BINHPHUOC.png" alt="">
+                                        </div>
+                                    </div>
+                                </td>
+                                <td>
+                                    <div uk-grid>
+                                        <div class="uk-width-expand">
+                                            Công ty điện lực Cần Thơ
+                                        </div>
+                                        <div class="uk-width-1-3@m">
+                                            <img src="imgs/logo-cty/CANTHO.png" alt="">
+                                        </div>
+                                    </div>
+                                </td>
                             </tr>
                             <tr>
-                                <td>Công ty điện lực Lâm Đồng</td>
-                                <td>Công ty điện lực Sóc Trăng</td>
+                                <td>
+                                    <div uk-grid>
+                                        <div class="uk-width-expand">
+                                            Công ty điện lực Lâm Đồng
+                                        </div>
+                                        <div class="uk-width-1-3@m">
+                                            <img src="imgs/logo-cty/LAMDONG.png" alt="">
+                                        </div>
+                                    </div>
+                                </td>
+                                <td>
+                                    <div uk-grid>
+                                        <div class="uk-width-expand">
+                                            Công ty điện lực Sóc Trăng
+                                        </div>
+                                        <div class="uk-width-1-3@m">
+                                            <img src="imgs/logo-cty/SOCTRANG.png" alt="">
+                                        </div>
+                                    </div>
+                                </td>
                             </tr>
                             <tr>
-                                <td>Công ty điện lực Tây Ninh</td>
-                                <td>Công ty điện lực Cà Mau</td>
+                                <td>
+                                    <div uk-grid>
+                                        <div class="uk-width-expand">
+                                            Công ty điện lực Tây Ninh
+                                        </div>
+                                        <div class="uk-width-1-3@m">
+                                            <img src="imgs/logo-cty/TAYNINH.png" alt="">
+                                        </div>
+                                    </div>
+                                </td>
+                                <td>
+                                    <div uk-grid>
+                                        <div class="uk-width-expand">
+                                            Công ty điện lực Cà Mau
+                                        </div>
+                                        <div class="uk-width-1-3@m">
+                                            <img src="imgs/logo-cty/CAMAU.png" alt="">
+                                        </div>
+                                    </div>
+                                </td>
                             </tr>
                             <tr>
-                                <td>Công ty điện lực Đồng Nai</td>
-                                <td>Công ty điện lực Ninh Thuận</td>
+                                <td>
+                                    <div uk-grid>
+                                        <div class="uk-width-expand">
+                                            Công ty điện lực Đồng Nai
+                                        </div>
+                                        <div class="uk-width-1-3@m">
+                                            <img src="imgs/logo-cty/DONGNAI.png" alt="">
+                                        </div>
+                                    </div>
+                                </td>
+                                <td>
+                                    <div uk-grid>
+                                        <div class="uk-width-expand">
+                                            Công ty điện lực Ninh Thuận
+                                        </div>
+                                        <div class="uk-width-1-3@m">
+                                            <img src="imgs/logo-cty/NINHTHUAN.png" alt="">
+                                        </div>
+                                    </div>
+                                </td>
                             </tr>
                             <tr>
-                                <td>Công ty điện lực Long An</td>
-                                <td>Công ty điện lực Bình Thuận</td>
+                                <td>
+                                    <div uk-grid>
+                                        <div class="uk-width-expand">
+                                            Công ty điện lực Long An
+                                        </div>
+                                        <div class="uk-width-1-3@m">
+                                            <img src="imgs/logo-cty/LONGAN.png" alt="">
+                                        </div>
+                                    </div>
+                                </td>
+                                <td>
+                                    <div uk-grid>
+                                        <div class="uk-width-expand">
+                                            Công ty điện lực Bình Thuận
+                                        </div>
+                                        <div class="uk-width-1-3@m">
+                                            <img src="imgs/logo-cty/BINHTHUAN.png" alt="">
+                                        </div>
+                                    </div>
+                                </td>
                             </tr>
                             <tr>
-                                <td>Công ty điện lực Đồng Tháp</td>
+                                <td>
+                                    <div uk-grid>
+                                        <div class="uk-width-expand">
+                                            Công ty điện lực Đồng Tháp
+                                        </div>
+                                        <div class="uk-width-1-3@m">
+                                            <img src="imgs/logo-cty/DONGTHAP.png" alt="">
+                                        </div>
+                                    </div>
+                                </td>
                                 <td></td>
                             </tr>
                             </tbody>
@@ -84,48 +273,105 @@
                         <table class="uk-table uk-table-hover uk-table-divider table1_tq">
                             <tbody>
                             <tr>
-                                <td>Công ty điện lực An Giang</td>
-                                <td>Công ty điện lực Hậu Giang</td>
+                                <td>
+                                    <div uk-grid>
+                                        <div class="uk-width-expand">
+                                            Công ty điện lực Miền Nam
+                                        </div>
+                                        <div class="uk-width-1-3@m">
+                                            <img src="imgs/donvi-phutro/1.png" alt="">
+                                        </div>
+                                    </div>
+                                </td>
+                                <td>Các công ty điện lực Tỉnh Thành phố</td>
                             </tr>
                             <tr>
-                                <td>Công ty điện lực Bạc Liêu</td>
-                                <td>Công ty điện lực Kiên Giang</td>
+                                <td>
+                                    <div uk-grid>
+                                        <div class="uk-width-expand">
+                                            Công ty thí nghiệm điện miền Nam
+                                        </div>
+                                        <div class="uk-width-1-3@m">
+                                            <img src="imgs/donvi-phutro/2.png" alt="">
+                                        </div>
+                                    </div>
+                                </td>
+                                <td>
+                                    <div uk-grid>
+                                        <div class="uk-width-expand">
+                                            Công ty TNHH MTV Tư vấn điện miền Nam
+                                        </div>
+                                        <div class="uk-width-1-3@m">
+                                            <img src="imgs/donvi-phutro/3.png" alt="">
+                                        </div>
+                                    </div>
+                                </td>
                             </tr>
                             <tr>
-                                <td>Công ty điện lực Bà Rịa Vũng Tàu</td>
-                                <td>Công ty điện lựcTiền Giang</td>
+                                <td>
+                                    <div uk-grid>
+                                        <div class="uk-width-expand">
+                                            Trường cao đẳng điện lực TPHCM
+                                        </div>
+                                        <div class="uk-width-1-3@m">
+                                            <img src="imgs/donvi-phutro/4.png" alt="">
+                                        </div>
+                                    </div>
+                                </td>
+                                <td>
+                                    <div uk-grid>
+                                        <div class="uk-width-expand">
+                                            Ban QLDA Lưới điện miền Nam
+                                        </div>
+                                        <div class="uk-width-1-3@m">
+                                            <img src="imgs/donvi-phutro/5.png" alt="">
+                                        </div>
+                                    </div>
+                                </td>
                             </tr>
                             <tr>
-                                <td>Công ty điện lực Bến Tre</td>
-                                <td>Công ty điện lực Trà Vinh</td>
+                                <td>
+                                    <div uk-grid>
+                                        <div class="uk-width-expand">
+                                            Công ty dịch vụ điện lực miền Nam
+                                        </div>
+                                        <div class="uk-width-1-3@m">
+                                            <img src="imgs/donvi-phutro/6.png" alt="">
+                                        </div>
+                                    </div>
+                                </td>
+                                <td>
+                                    <div uk-grid>
+                                        <div class="uk-width-expand">
+                                            Trung tâm CSKH điện lực miền Nam
+                                        </div>
+                                        <div class="uk-width-1-3@m">
+                                            <img src="imgs/donvi-phutro/7.png" alt="">
+                                        </div>
+                                    </div>
+                                </td>
                             </tr>
                             <tr>
-                                <td>Công ty điện lực Bình Dương</td>
-                                <td>Công ty điện lực Vĩnh Long</td>
-                            </tr>
-                            <tr>
-                                <td>Công ty điện lực Bình Phước</td>
-                                <td>Công ty điện lực Cần Thơ</td>
-                            </tr>
-                            <tr>
-                                <td>Công ty điện lực Lâm Đồng</td>
-                                <td>Công ty điện lực Sóc Trăng</td>
-                            </tr>
-                            <tr>
-                                <td>Công ty điện lực Tây Ninh</td>
-                                <td>Công ty điện lực Cà Mau</td>
-                            </tr>
-                            <tr>
-                                <td>Công ty điện lực Đồng Nai</td>
-                                <td>Công ty điện lực Ninh Thuận</td>
-                            </tr>
-                            <tr>
-                                <td>Công ty điện lực Long An</td>
-                                <td>Công ty điện lực Bình Thuận</td>
-                            </tr>
-                            <tr>
-                                <td>Công ty điện lực Đồng Tháp</td>
-                                <td></td>
+                                <td>
+                                    <div uk-grid>
+                                        <div class="uk-width-expand">
+                                            Công ty CNTT điện lực miền Nam
+                                        </div>
+                                        <div class="uk-width-1-3@m">
+                                            <img src="imgs/donvi-phutro/8.png" alt="">
+                                        </div>
+                                    </div>
+                                </td>
+                                <td>
+                                    <div uk-grid>
+                                        <div class="uk-width-expand">
+                                            Trung tâm điều hành SCADA
+                                        </div>
+                                        <div class="uk-width-1-3@m">
+                                            <img src="imgs/donvi-phutro/8.png" alt="">
+                                        </div>
+                                    </div>
+                                </td>
                             </tr>
                             </tbody>
                         </table>
