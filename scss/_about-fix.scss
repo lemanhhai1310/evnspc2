@@ -1,0 +1,13 @@
+@media (min-width: 960px) {
+  .title-rolate{
+    white-space: nowrap;
+    transform: rotate(-90deg);
+  }
+  .card-rolate{
+    min-height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+  }
+}
