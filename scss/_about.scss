@@ -391,6 +391,10 @@ $width-1: 7px;
           background-color: #000000;
           right: calc(50% - 3px);
           top: -30px;
+          .hai1 &{
+            right: calc(50% - 15px);
+
+          }
           .bgd1 &{
             top: -30px;
             left: calc((100% + 30px)/2);

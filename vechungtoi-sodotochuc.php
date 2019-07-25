@@ -57,22 +57,24 @@
                     </div>
                 </div>
             </div>
-            <div class="uk-child-width-1-4@m sdtc1 uk-grid-medium uk-margin-large" uk-grid uk-height-match="target: > div > .uk-card">
-                <?php
-                $cars = array
-                (
-                    'PHÓ TGĐ KỸ THUẬT SẢN XUẤT',
-                    'PHÓ TGĐ THỊ TRƯỜNG ĐIỆN',
-                    'PHÓ TGĐ ĐẦU TƯ XÂY DỰNG',
-                    'PHÓ TGĐ CÔNG NGHỆ THÔNG TIN',
-                );
-                foreach ($cars as $key => $value) { ?>
-                <div>
-                    <div class="uk-card card3 uk-card-primary uk-card-body uk-padding-small">
-                        <h3 class="uk-card-title uk-text-uppercase"><?php echo $value; ?></h3>
-                    </div>
+            <div class="hai1">
+                <div class="uk-child-width-1-4@m sdtc1 uk-grid-medium uk-margin-large" uk-grid uk-height-match="target: > div > .uk-card">
+                    <?php
+                    $cars = array
+                    (
+                        'PHÓ TGĐ KỸ THUẬT SẢN XUẤT',
+                        'PHÓ TGĐ THỊ TRƯỜNG ĐIỆN',
+                        'PHÓ TGĐ ĐẦU TƯ XÂY DỰNG',
+                        'PHÓ TGĐ CÔNG NGHỆ THÔNG TIN',
+                    );
+                    foreach ($cars as $key => $value) { ?>
+                        <div>
+                            <div class="uk-card card3 uk-card-primary uk-card-body uk-padding-small">
+                                <h3 class="uk-card-title uk-text-uppercase"><?php echo $value; ?></h3>
+                            </div>
+                        </div>
+                    <?php } ?>
                 </div>
-                <?php } ?>
             </div>
             <div class="uk-grid-small sdtc1 x1 uk-child-width-expand@l uk-margin-large uk-grid-match" uk-grid>
                 <?php
