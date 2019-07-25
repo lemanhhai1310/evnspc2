@@ -230,7 +230,7 @@ $activePage = basename($_SERVER['PHP_SELF'], ".php");
         <a class="uk-navbar-toggle" uk-close uk-toggle="target: .nav-overlay; animation: uk-animation-fade" href="#"></a>
 
     </div>
-    <div class="block-ads uk-position-fixed uk-position-z-index">
+    <div class="block-ads uk-position-relative uk-position-z-index">
         <div class="uk-grid-collapse" uk-grid>
             <div>
                 <div class="uk-margin-remove uk-padding-remove" uk-alert>
