@@ -25,7 +25,7 @@
                         <div>
                             <div class="uk-grid-medium uk-child-width-1-1 uk-grid-large hai" uk-grid>
                                 <div>
-                                    <div class="uk-card card3 uk-card-primary gd hdtv uk-card-body uk-position-relative" style="z-index: 100000000000">
+                                    <div class="uk-card card3 uk-card-primary gd hdtv uk-card-body uk-position-relative" style="z-index: 100000">
                                         <h3 class="uk-card-title uk-text-uppercase uk-text-truncate">hội đồng thành viên</h3>
                                     </div>
                                 </div>
@@ -99,7 +99,7 @@
                     );
                     foreach ($cars as $key => $value) { ?>
                         <div>
-                            <div class="uk-card card3 card-rolate uk-card-default uk-padding-small uk-card-body">
+                            <div class="uk-card card3 card-rolate uk-card-default uk-padding-small uk-card-body uk-position-relative uk-position-z-index" style="z-index: 1000">
                                 <h3 class="uk-card-title title-rolate uk-text-uppercase"><?php echo $value; ?></h3>
                             </div>
                         </div>
@@ -128,39 +128,41 @@
                         </div>
                     <?php } ?>
                 </div>
-                <div class="uk-grid-small sdtc1 x1 uk-child-width-expand@m uk-margin-large uk-grid-match" uk-grid>
-                    <?php
-                    $cars = array
-                    (
-                        'an giang',
-                        'bà rịa vũng tàu',
-                        'bạc liêu',
-                        'bến tre',
-                        'bình dương',
-                        'bình phước',
-                        'bình thuận',
-                        'cà mau',
-                        'cần thơ',
-                        'đồng tháp',
-                        'hậu giang',
-                        'kiên giang',
-                        'lâm đồng',
-                        'long an',
-                        'ninh thuận',
-                        'sóc trăng',
-                        'tây ninh',
-                        'tiền giang',
-                        'trà vinh',
-                        'vĩnh long',
-                        'đồng nai (tnhh)',
-                    );
-                    foreach ($cars as $key => $value) { ?>
-                        <div>
-                            <div class="uk-card card3 card-rolate uk-card-default uk-padding-small uk-card-body" style="background-color: #fff; border: 1px solid #000000;">
-                                <h3 class="uk-card-title title-rolate uk-text-uppercase"><?php echo $value; ?></h3>
+                <div class="man1024">
+                    <div class="uk-grid-small sdtc1 x1 uk-child-width-expand@m uk-margin-large uk-grid-match" uk-grid>
+                        <?php
+                        $cars = array
+                        (
+                            'an giang',
+                            'bà rịa vũng tàu',
+                            'bạc liêu',
+                            'bến tre',
+                            'bình dương',
+                            'bình phước',
+                            'bình thuận',
+                            'cà mau',
+                            'cần thơ',
+                            'đồng tháp',
+                            'hậu giang',
+                            'kiên giang',
+                            'lâm đồng',
+                            'long an',
+                            'ninh thuận',
+                            'sóc trăng',
+                            'tây ninh',
+                            'tiền giang',
+                            'trà vinh',
+                            'vĩnh long',
+                            'đồng nai (tnhh)',
+                        );
+                        foreach ($cars as $key => $value) { ?>
+                            <div>
+                                <div class="uk-card card3 card-rolate uk-card-default uk-padding-small uk-card-body" style="background-color: #fff; border: 1px solid #000000;">
+                                    <h3 class="uk-card-title title-rolate uk-text-uppercase"><?php echo $value; ?></h3>
+                                </div>
                             </div>
-                        </div>
-                    <?php } ?>
+                        <?php } ?>
+                    </div>
                 </div>
             </div>
 
