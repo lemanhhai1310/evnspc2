@@ -77,7 +77,7 @@
                         <?php } ?>
                     </div>
                 </div>
-                <div class="uk-grid-small sdtc1 x1 uk-child-width-expand@l uk-margin-large uk-grid-match" uk-grid>
+                <div class="uk-grid-small sdtc1 x1 uk-child-width-expand@m uk-margin-large uk-grid-match" uk-grid>
                     <?php
                     $cars = array
                     (
@@ -105,7 +105,7 @@
                         </div>
                     <?php } ?>
                 </div>
-                <div class="sdtc1 c2 uk-child-width-expand@l uk-margin-large uk-grid-small uk-grid-match" uk-grid>
+                <div class="sdtc1 c2 uk-child-width-expand@m uk-margin-large uk-grid-small uk-grid-match" uk-grid>
                     <?php
                     $cars = array
                     (
@@ -128,7 +128,7 @@
                         </div>
                     <?php } ?>
                 </div>
-                <div class="uk-grid-small sdtc1 x1 uk-child-width-expand@l uk-margin-large uk-grid-match" uk-grid>
+                <div class="uk-grid-small sdtc1 x1 uk-child-width-expand@m uk-margin-large uk-grid-match" uk-grid>
                     <?php
                     $cars = array
                     (
