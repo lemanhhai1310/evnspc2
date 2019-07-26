@@ -41,8 +41,9 @@
       width: 1px;
       height: 100%;
       top: 0;
-      left: 50%;
-      transform: translateX(-50%);
+      left: calc(50% - 1px);
+
+      //transform: translateX(-50%);
       background-color: #000000;
       display: inline-block;
     }

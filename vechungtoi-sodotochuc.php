@@ -25,7 +25,7 @@
                         <div>
                             <div class="uk-grid-medium uk-child-width-1-1 uk-grid-large hai" uk-grid>
                                 <div>
-                                    <div class="uk-card card3 uk-card-primary gd hdtv uk-card-body uk-position-relative" style="z-index: 100">
+                                    <div class="uk-card card3 uk-card-primary gd hdtv uk-card-body uk-position-relative" style="z-index: 100000000000">
                                         <h3 class="uk-card-title uk-text-uppercase uk-text-truncate">hội đồng thành viên</h3>
                                     </div>
                                 </div>
